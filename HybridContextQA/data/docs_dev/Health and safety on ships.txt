@@ -1,0 +1,111 @@
+Health and safety on ships
+<h1>Overview</h1>
+<p>Operators of seagoing ships or small commercial vessels must protect the health and safety of workers by:</p>
+<li>following safety standards and codes of practice</li>
+<li>ensuring the safety of machinery and equipment</li>
+<li>making sure the vessel is safely manned and all workers have the necessary qualifications</li>
+<li>having the right emergency procedures and equipment</li>
+<li>providing health protection and medical care</li>
+<li>doing regular risk assessments</li>
+<li>supplying necessary protective clothing and equipment</li>
+<li>monitoring maritime safety information broadcasts</li>
+<li>consulting with workers or their representatives on health and safety matters</li>
+<h2>Providing health and safety training</h2>
+<p>Workers must get basic health and safety training. There’s more information on what this covers on the Health and Safety Executive (HSE) website.</p>
+<h2>Written health and safety policy</h2>
+<p>The ship must must have a policy that sets out how health and safety will be managed. Read guidance on writing a health and safety policy.</p>
+<h1>Risk assessments</h1>
+<p>Regular risk assessments must be carried out to see how accidents, injuries or illnesses could be caused on the ship and what can be done to reduce the chances of them happening.</p>
+<p>Risk assessments must be reviewed every year and whenever there are significant changes to either the ship or working activities.</p>
+<p>Read chapter 1 of the ‘Code of safe working practices for merchant seafarers 2018’ for the basic requirements for risk assessments on board ships.</p>
+<p>Read the ‘Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997’ for the requirements for risk assessments on merchant ships.</p>
+<h1>Safe working practices</h1>
+<h2>Code of safe working practices</h2>
+<p>By law, up-to-date copies of the ‘Code of safe working practices for merchant seamen’ must be carried on a UK ship that’s not a fishing boat or pleasure craft.</p>
+<p>A copy of the code must be available to any seaman who requests it.</p>
+<p>The ‘Code of safe working practices for merchant seamen (Consolidated edition 2011)’ is available to buy from The Stationery Office.</p>
+<p>Read the ‘Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997’ for safety standards and requirements for merchant ships.</p>
+<h2>Safety signs</h2>
+<p>Certain health and safety signs must be displayed on ships, such as emergency escape signs or danger warning signs. Signs must meet legal requirements if they’re permanently displayed.</p>
+<p>Read the ‘Merchant Shipping and Fishing Vessels (Safety Signs and Signals) Regulations 2001’ to find out how and where safety signs and signals must be displayed.</p>
+<h2>‘Permit to work’</h2>
+<p>The ‘permit to work’ system reduces the risk of accidents on board ship. Under this system, seafarers must get written permission from a senior officer before they can perform hazardous tasks, like:</p>
+<li>working aloft and outboard</li>
+<li>working with boilers</li>
+<li>‘hot work’ (work which could result in the ignition of flammable material, for example welding)</li>
+<li>working in unmanned machinery spaces</li>
+<li>entry into enclosed spaces</li>
+<li>electrical testing</li>
+<p>Read about using ‘permit to work’ schemes to test electrical systems.</p>
+<p>Read ‘Safety Preparations Prior to Machinery Maintenance’ to find out how to prepare for doing maintenance on machinery on ships.</p>
+<h2>‘Permit to work’ templates</h2>
+<h1>Protective equipment</h1>
+<p>Workers must be given suitable protective equipment if performing dangerous tasks.</p>
+<p>You should only use protective equipment when risks cannot be avoided or reduced to an acceptable level by safe working practices. This equipment should:</p>
+<li>meet the required standards</li>
+<li>be a correct fit for the worker or adjustable</li>
+<li>be compatible with any other equipment the worker has to use</li>
+<li>be easily accessible, properly stored and maintained</li>
+<li>be provided free of charge (unless it’s also used outside the workplace)</li>
+<p>Read the ‘Merchant Shipping and Fishing Vessels Personal Protective Equipment Regulations’ to find out about personal protective equipment.</p>
+<h1>Noise and vibration</h1>
+<p>Risk assessments must be carried out to identify who is at risk from noise or vibration on a ship and what can be done to reduce or remove these risks.</p>
+<p>Workers must be told about:</p>
+<li>the nature of noise or vibration risks</li>
+<li>how to eliminate or reduce the risks from noise or vibration</li>
+<li>the correct use of any protective equipment</li>
+<li>how to detect and report signs of injury</li>
+<p>The Maritime and Coastguard Agency (MCA) provides information on controlling the risks of noise and vibration at sea.</p>
+<p>Read the:</p>
+<li>code of practice for controlling risks due to noise and vibration on ships</li>
+<li>guidance on mitigating against the effects of shocks and impacts on small vessels</li>
+<p>You may be able to get an exemption from the noise and vibration requirements.</p>
+<p>Find out how to apply for an exemption from the:</p>
+<li>control of vibration at work regulations</li>
+<li>control of noise at work regulations</li>
+<h1>Small commercial vessels</h1>
+<p>Small commercial vessels must have safety measures in place for workers, such as:</p>
+<li>bulwarks, guardrails or wire around the working deck to stop people falling overboard</li>
+<li>safety harnesses for anyone working on deck</li>
+<li>a means of securing the lifelines of safety harnesses</li>
+<li>non-slip deck surfaces</li>
+<p>Smaller commercial vessels (under 24 metres) must comply with the ‘Small commercial vessels codes’ to ensure the health and safety of workers on board.</p>
+<h1>Seagoing passenger vessels</h1>
+<h2>Domestic passenger ships</h2>
+<p>Seagoing domestic passenger ships, for example ferries, must meet minimum safety requirements regarding:</p>
+<li>general safety management policies</li>
+<li>manning levels</li>
+<li>proper and stable construction</li>
+<li>carriage of safety equipment</li>
+<li>pollution prevention</li>
+<p>A passenger ship is a ship of any description that carries more than 12 passengers. There are various safety standards for seagoing passenger ships. Local Maritime and Coastguard Agency (MCA) Marine Offices have more information on these standards.</p>
+<h2>International passenger ships</h2>
+<p>Passenger ships which operate internationally must follow international conventions, such as the:</p>
+<li>International Convention for the Safety of Life at Sea</li>
+<li>International Convention on Load Lines</li>
+<li>International Convention for the Prevention of Pollution from Ships</li>
+<p>Local MCA Marine Offices have information on which safety standards apply.</p>
+<h1>Safety on vessels on inland waters</h1>
+<p>Passenger vessels operating on inland waters - like estuaries, lakes and rivers and canals - must follow safety standards and requirements.</p>
+<p>Inland waters or inland waterways are known legally as ‘categorised waters’. These waters are defined and listed in Merchant Shipping Notice (MSN) 1827 (as amended) Categorisation of Waters.</p>
+<p>A passenger ship is a vessel that carries more than 12 passengers.</p>
+<p>The rules for passenger ships built since April 2010, and operating in UK categorised waters are in ‘Merchant Shipping Notice 1823 (M) - Safety Code for Passenger Ships Operating Solely in UK Categorised Waters’.</p>
+<p>The rules for older passenger ships are covered by several different sets of regulations. Contact the local  Maritime and Coastguard Agency (MCA) Marine Office for details.</p>
+<h2>Vessels that carry no more than 12 passengers</h2>
+<p>Safety standards and best practice guidance for these vessels are set out in the Inland Waters Small Passenger Boat Code.</p>
+<h1>Marine engineering</h1>
+<p>Marine engineering involves the design, construction, installation, and operation of systems and equipment that help to move and control ships. Safety measures must be in place for any crew members using or maintaining marine engineering equipment, such as:</p>
+<li>switchboards and computerised equipment</li>
+<li>machinery installations</li>
+<li>boilers and emergency equipment</li>
+<p>The Maritime and Coastguard Agency (MCA) provides information on the safe installation and use of marine engineering.</p>
+<h1>Fire prevention</h1>
+<p>The Maritime and Coastguard Agency (MCA) provides information on requirements for fire protection, fire detection and fire extinction on board ships.</p>
+<p>The rules depend on the size of the ship.</p>
+<p>Requirements for large ships are in the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998.</p>
+<p>Requirements for small ships are in the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998.</p>
+<p>You should also read the Merchant Shipping (Fire Protection) Regulations 2003 – it includes amendments to the regulations for large and small ships.</p>
+<p>Contact the MCA to find out more about fire prevention and detection at sea.</p>
+<h1>Safety in ports</h1>
+<p>Health and safety measures must be in place to ensure the safety of  workers while in a port.</p>
+<p>There is a range of publications and guidance on health and safety in ports on the Health and Safety Executive website.</p>

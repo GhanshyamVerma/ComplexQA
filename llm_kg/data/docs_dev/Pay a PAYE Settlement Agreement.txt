@@ -1,0 +1,79 @@
+Pay a PAYE Settlement Agreement
+<h1>Overview</h1>
+<p>You must pay the tax and Class 1B National Insurance due from your PAYE Settlement Agreement (PSA) by 22 October following the tax year it applies to.</p>
+<p>This guide is also available in Welsh (Cymraeg)</p>
+<h2>Pay online</h2>
+<p>Make sure you pay HM Revenue and Customs (HMRC) by the deadline. You may have to pay penalties and interest if your payment is late.</p>
+<p>Pay now</p>
+<h2>Other ways to pay</h2>
+<p>You can choose to pay in other ways. The time you need to allow depends on how you pay.</p>
+<p>You can no longer pay at the Post Office.</p>
+<h3>Up to 2 days</h3>
+<li>online or telephone banking (Faster Payments)</li>
+<li>CHAPS</li>
+<li>by debit or corporate credit card online</li>
+<li>at your bank or building society</li>
+<h3>3 working days or more</h3>
+<li>Bacs</li>
+<li>Direct Debit (if you’ve set up one for HMRC before)</li>
+<li>by cheque through the post</li>
+<h3>5 working days</h3>
+<li>Direct Debit - if you have not set up one for HMRC before</li>
+<p>If the deadline falls on a weekend or bank holiday, make sure your payment reaches HMRC on the last working day before it (unless you’re paying by Faster Payments).</p>
+<h1>Bank details for online or telephone banking, CHAPS, Bacs</h1>
+<p>You can pay by Faster Payments, CHAPS or Bacs to HM Revenue and Customs’ (HMRC) account.</p>
+<tr>Sort code | Account number | Account name</tr>
+<tr>08 32 10 | 12001020 | HMRC Shipley</tr>
+<h2>Reference number</h2>
+<p>You’ll need to use your PAYE Settlement Agreement (PSA) reference number as the payment reference.</p>
+<p>It starts with an X and is on the payslip HMRC sent you. If you do not have your PSA number, contact the office that’s dealing with your application.</p>
+<p>Do not use your PAYE Accounts Office reference number. Your payment may be delayed if you use the wrong reference.</p>
+<h2>How long it takes</h2>
+<p>Payments made by Faster Payments (online or telephone banking) will usually reach HMRC on the same or next day, including weekends and bank holidays.</p>
+<p>CHAPS payments usually reach HMRC the same working day if you pay within your bank’s processing times.</p>
+<p>Bacs payments usually take 3 working days.</p>
+<p>Check your bank’s transaction limits and processing times before making a payment.</p>
+<h2>Overseas payments</h2>
+<p>Use these details to pay from an overseas account.</p>
+<tr>Account number (IBAN) | Bank identifier code (BIC) | Account name</tr>
+<tr>GB03BARC20114783977692 | BARCGB22 | HMRC Shipley</tr>
+<p>HMRC’s banking address is:</p>
+<h1>By debit or corporate credit card online</h1>
+<p>You can pay online.</p>
+<p>There’s a fee if you pay by corporate credit card or corporate debit card. The fee is not refundable.</p>
+<p>There’s no fee if you pay by personal debit card.</p>
+<p>You cannot pay by personal credit card.</p>
+<p>You’ll need your PAYE Settlement Agreement (PSA) reference number. It starts with an X and is on the payslip HM Revenue and Customs (HMRC) sent you.</p>
+<p>If you do not have your PSA number, contact the HMRC office that’s dealing with your application.</p>
+<p>Do not use your PAYE Accounts Office reference number. Your payment may be delayed if you use the wrong reference.</p>
+<p>HMRC will accept your payment on the date you make it (even on bank holidays and weekends) - not the date it reaches HMRC’s account.</p>
+<p>If you’re unable to pay your PSA in full by card, you should use another payment method like a bank transfer.</p>
+<h1>At your bank or building society</h1>
+<p>You can pay at your branch by cash or cheque. You’ll need to use the PAYE Settlement Agreement (PSA) payslip sent to you by HM Revenue and Customs (HMRC).</p>
+<p>Make your cheque payable to ‘HM Revenue and Customs only’.</p>
+<p>Write your PSA reference number on the back of your cheque. The number starts with an X. You will find it on the payslip.</p>
+<p>HMRC will accept your payment on the date you make it (if you pay it from Monday to Friday) and not the date it reaches HMRC’s account.</p>
+<h1>Direct Debit</h1>
+<p>Set up a Direct Debit through your business’s HM Revenue and Customs (HMRC) online account to make a single payment. This means you’ll need to set up a payment each time you pay HMRC through Direct Debit.</p>
+<h2>Use your reference number</h2>
+<p>You’ll need your PAYE Settlement Agreement (PSA) reference number. It starts with an X and is on the payslip HMRC sent you.</p>
+<p>If you do not have your PSA number, contact the HMRC office that’s dealing with your application.</p>
+<p>Do not use your PAYE Accounts Office reference number. Your payment may be delayed if you use the wrong reference.</p>
+<h2>How long it takes</h2>
+<p>Allow 5 working days to process a Direct Debit the first time you set one up. It should take 3 working days next time if you’re using the same bank details.</p>
+<p>If you pay PAYE or Class 1 National Insurance contributions by Direct Debit, make a separate Direct Debit payment for your PSA.</p>
+<h1>By cheque through the post</h1>
+<p>You can send a cheque by post to HM Revenue and Customs (HMRC).</p>
+<p>You do not need to include a street name, city name or PO box with this address.</p>
+<p>Allow 3 working days for your payment to reach HMRC.</p>
+<h2>What to include</h2>
+<p>Make your cheque payable to ‘HM Revenue and Customs only’.</p>
+<p>Write your PAYE Settlement Agreement (PSA) reference number on the back of the cheque. It starts with an ‘X’ and you’ll find it on your payslip.</p>
+<p>Include the payslip HMRC sent you. Do not fold the payslip or cheque or fasten them together.</p>
+<p>Your payment may be delayed if you do not fill in your cheque properly.</p>
+<p>If you want a receipt, include a note asking for one.</p>
+<h3>If you do not have a payslip</h3>
+<p>You can print a payslip to use to pay by post. You cannot use this at a bank.</p>
+<h1>Check your payment has been received</h1>
+<p>You can check your bank or building society statement to confirm the payment has left your account.</p>
+<p>If you’re paying by post, you can include a letter with your payment to request a receipt from HM Revenue and Customs (HMRC).</p>

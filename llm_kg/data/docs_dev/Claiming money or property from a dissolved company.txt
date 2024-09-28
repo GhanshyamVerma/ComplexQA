@@ -1,0 +1,73 @@
+Claiming money or property from a dissolved company
+<h1>Overview</h1>
+<p>When a company is dissolved, all of its assets pass to the Crown and are legally known as ‘bona vacantia’ (ownerless property). Assets include:</p>
+<li>property and land</li>
+<li>mortgages</li>
+<li>shares</li>
+<li>intellectual property, for example trademarks, registered designs and patents</li>
+<h2>Claiming or buying assets</h2>
+<p>You may be able to claim money back or buy assets from the dissolved company by:</p>
+<li>getting a court order to restore the company - if they owe you money</li>
+<li>buying or claiming some of their assets - if you’re affected by the company closing</li>
+<li>applying for a discretionary grant - if you were a shareholder</li>
+<p>You can get legal advice about the best way to claim back your money.</p>
+<h1>Get a court order to restore a company</h1>
+<p>You may be able to apply for a court order to restore a company if:</p>
+<li>you did business with them</li>
+<li>you worked for them</li>
+<li>they owed you money when they were dissolved</li>
+<li>you’re responsible for their employee pension fund</li>
+<li>you have a shared or competing interest in land</li>
+<li>you were a shareholder or director when it was dissolved</li>
+<p>You may be able to restore the company without a court order if you were a director or shareholder of a dissolved company.</p>
+<h2>How to apply</h2>
+<p>Download and fill in a claim to restore by court order (form N208) to apply for court order restoration in England and Wales.</p>
+<p>HM Courts and Tribunals service has guidance notes on filling in form N208 if you need help.</p>
+<p>Find the company’s registered office and send your completed form to their nearest county court that deals with bankruptcy.</p>
+<p>If you’re not sure where to send the form then contact the Royal Courts of Justice.</p>
+<p>You’ll also need to include:</p>
+<li>the £280 court fee (cash, postal order or cheque made payable to ‘Her Majesty’s Courts and Tribunals Service’)</li>
+<li>a witness statement, containing the supporting information outlined in section 4 of the Treasury Solicitor’s guide to company restoration</li>
+<h3>In Scotland</h3>
+<p>Apply to the Court of Session if the initial value of the company’s shares that have been paid for (‘paid-up capital’) is more than £120,000.</p>
+<p>Apply to the local sheriff court for other companies.</p>
+<p>You’ll then have to serve a ‘petition to restore’ on the Registrar of Companies in Scotland, and any other bodies the court asks you to.</p>
+<h3>In Northern Ireland</h3>
+<p>Apply by serving an ‘originating summons’ on the Royal Courts of Justice:</p>
+<p>You also need to send this to the Registrar of Companies in Northern Ireland, along with a witness statement in support of the application.</p>
+<h2>What happens next</h2>
+<p>If your claim is accepted, the court will issue an order to restore a company - you’ll be sent this, and you must send it on to the Registrar of Companies. Once they have it they will restore the company.</p>
+<p>You’ll then need to take further action to try and get your money:</p>
+<li>get a ‘judgment’ from court for the amount of the money you’re owed together with interest and costs</li>
+<li>issue a statutory demand</li>
+<li>take out a winding up petition</li>
+<h1>Buy a dissolved company's assets</h1>
+<p>You may be able to claim or buy an asset belonging to a dissolved company by asking the body representing the Crown. This is known as ‘referring’ an asset.</p>
+<p>Who you ask depends on where the company was registered.</p>
+<p>Anybody can refer an asset, for example if:</p>
+<li>you’re the leaseholder of a property where the company owned the freehold</li>
+<li>you want to buy or are affected by land owned by the company</li>
+<li>you want to buy other assets of the company like shares, trade marks or copyrights</li>
+<li>you’re a shareholder trying to get cash held by the company</li>
+<h2>How to refer an asset</h2>
+<p>The Treasury Solicitor looks after dissolved company assets in England and Wales (but not Cornwall or Lancashire).</p>
+<p>Find out how to refer an asset to the Treasury Solicitor.</p>
+<p>You can also write to:</p>
+<h2>Other bodies that represent the Crown</h2>
+<p>Elsewhere, dissolved companies’ assets are dealt with by:</p>
+<li>in Cornwall and Lancashire - Farrer and Co</li>
+<li>in Scotland - The Queen’s and Lord Treasurer’s Remembrancer</li>
+<li>in Northern Ireland - phone or write to the Crown Solicitor’s Office for Northern Ireland</li>
+<h1>Apply for a discretionary grant</h1>
+<p>You may be able to get back a dissolved company’s assets if you were one of its shareholders.</p>
+<h2>How to apply</h2>
+<p>In England and Wales (but not Cornwall or Lancashire) you must apply to the Treasury Solicitor.</p>
+<p>How you apply depends on whether the company can be restored or not.</p>
+<p>The Treasury Solicitor has guidance on what you should do if:</p>
+<li>the company can be restored</li>
+<li>the company cannot be restored</li>
+<h2>Companies in Scotland, Northern Ireland, Cornwall and Lancashire</h2>
+<p>Property owned by dissolved companies is dealt with:</p>
+<li>in Cornwall and Lancashire - Farrer and Co</li>
+<li>in Scotland - The Queen’s and Lord Treasurer’s Remembrancer</li>
+<li>in Northern Ireland - the Crown Solicitor’s Office for Northern Ireland</li>

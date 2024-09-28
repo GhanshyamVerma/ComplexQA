@@ -1,0 +1,123 @@
+Septic tanks and treatment plants: permits and general binding rules
+<h1>Overview</h1>
+<p>If your house or business is not connected to the mains sewer, your sewage will go to one of the following:</p>
+<li>a septic tank - an underground tank where the solids sink to the bottom and the liquid flows out and soaks through the ground</li>
+<li>a small sewage treatment plant (also known as a package treatment plant) - a part-mechanical system that treats the liquid so it’s clean enough to go into a river or stream</li>
+<li>a cesspool (also called a cesspit) - a sealed tank that collects the sewage</li>
+<li>a non-standard system, such as a reed bed or trench arch system</li>
+<p>There are different rules for septic tanks and treatment plants in Northern Ireland, Scotland and Wales.</p>
+<h2>You have a non-standard system</h2>
+<p>You must contact the Environment Agency to find out if you need a permit.</p>
+<h1>You have a septic tank or small sewage treatment plant</h1>
+<p>As the ‘operator’ of a septic tank or small sewage treatment plant you must check you meet the general binding rules. You must apply for a permit if you do not.</p>
+<p>You’re an operator if any of the following is true:</p>
+<li>you own the property that uses the system</li>
+<li>you own a property that shares the system with other properties - each property owner is an operator, and you’re jointly responsible for complying with the general binding rules</li>
+<li>you have a written agreement with the property owner that says you’re responsible for the system’s maintenance, for example you’re renting and it’s in your tenancy agreement</li>
+<p>Contact the Environment Agency if you’re not sure whether you’re an operator.</p>
+<h1>The general binding rules</h1>
+<p>You must follow the general binding rules if you’re the operator of a septic tank or small sewage treatment plant.</p>
+<p>The sewage must:</p>
+<li>be domestic in nature, for example from a toilet, bathroom, shower or kitchen of a house, flat or business (such as a pub, hotel or office) - contact the Environment Agency if you’re not sure if the sewage is domestic in nature</li>
+<li>not cause pollution - find out how to check for pollution</li>
+<p>There are other rules depending on whether you’re releasing this sewage:</p>
+<li>to the ground, for example in your back garden</li>
+<li>to a surface water, for example a river or stream</li>
+<p>Ask your local installation or maintenance company if you’re not sure what sort of system you have.</p>
+<h2>Releasing to the ground</h2>
+<p>You must use a septic tank or a small sewage treatment plant and a drainage field (infiltration system).</p>
+<p>You must apply for a permit if you release (‘discharge’):</p>
+<li>to a well, borehole or other deep structure</li>
+<li>more than 2 cubic metres (2,000 litres) per day</li>
+<li>in a groundwater source protection zone (SPZ1)</li>
+<p>You must also read the additional rules for discharging sewage to the ground.</p>
+<h3>Calculate how much sewage you discharge</h3>
+<p>For sewage from a residential property, use the calculator to work out how much you discharge per day.</p>
+<p>For commercial properties (such as a hotel, restaurant or office) or holiday accommodation (such as a cottage or chalet), use British Water’s flows and loads guidance or contact the Environment Agency for advice.</p>
+<h3>Work out if you’re in a groundwater source protection zone 1 (SPZ1)</h3>
+<p>An SPZ1 can be either:</p>
+<li>the area around a commercial water supply shown on the map of protected zones - check whether your discharge is in the inner zone (Zone 1) or ask the Environment Agency</li>
+<li>any area within 50 metres of a private water supply for human consumption - ask your neighbours if they have a spring, well or borehole, and how far it is from your drainage field</li>
+<h2>Releasing to a surface water</h2>
+<p>You must use a small sewage treatment plant. You must apply for a permit if you’re discharging more than 5 cubic metres (5,000 litres) per day. Use the calculator to work out how much you discharge per day.</p>
+<p>You must also read the additional rules for discharging sewage to a surface water.</p>
+<p>For commercial properties (such as a hotel, restaurant or office) or holiday accommodation (such as a cottage or chalet), use British Water’s flows and loads guidance or contact the Environment Agency for advice.</p>
+<h2>Installing a new system</h2>
+<p>You must have building regulations approval. You may also need planning permission.</p>
+<p>Check with your local council.</p>
+<h3>If you did not get permission and approval</h3>
+<p>You must apply retrospectively for building regulations approval. You may also need planning permission.</p>
+<p>If your system was installed before 1 January 2015, you should contact your local council for advice.</p>
+<h1>Apply for a permit</h1>
+<p>You’ll need a permit if you do not meet the general binding rules.</p>
+<p>The form you need to fill in depends on:</p>
+<li>where you discharge the sewage</li>
+<li>how much you discharge</li>
+<h2>If you discharge sewage to ground</h2>
+<p>There are different forms depending on whether you’re in a groundwater protection zone (SPZ1).</p>
+<h3>Outside an SPZ1</h3>
+<p>There are different forms if you discharge:</p>
+<li>between 2 and 15 cubic metres per day</li>
+<li>over 15 cubic metres per day</li>
+<h3>Inside an SPZ1</h3>
+<p>If you discharge less than 2 cubic metres per day there are different forms:</p>
+<li>for systems in use before 1 January 2015</li>
+<li>for those installed on or after 1 January 2015</li>
+<p>There are different forms if you discharge:</p>
+<li>between 2 and 15 cubic metres per day</li>
+<li>over 15 cubic metres per day</li>
+<h2>If you discharge sewage to a surface water</h2>
+<p>If you discharge between 5 and 20 cubic metres per day, check if you can apply for a standard rules permit.</p>
+<p>If you cannot get a standard rules permit, you’ll need a permit to discharge:</p>
+<li>up to 20 cubic metres</li>
+<li>over 20 cubic metres</li>
+<h2>Before you start</h2>
+<p>You need:</p>
+<li>the 8-figure grid reference for your septic tank or treatment plant and the point where it discharges</li>
+<li>to calculate the largest amount you’re likely to discharge - use one of the calculators in the chapter on the general binding rules</li>
+<li>to provide a suitable site plan – see an example site plan</li>
+<h2>Application fees</h2>
+<p>Your application fee depends on whether your site is a domestic household, charity or another type of organisation.</p>
+<h3>You’re discharging to ground</h3>
+<p>The application fee for domestic households and charities to discharge up to 5,000 litres (5 cubic metres) per day is £125.</p>
+<p>The fees are different for other organisations.</p>
+<tr>Size of discharge per day | Fee</tr>
+<tr>Up to 15,000 litres (15 cubic metres) | £2,708</tr>
+<tr>Over 15,000 litres (15 cubic metres) | £5,699</tr>
+<tr>Any volume that contains specific substances | £6,052</tr>
+<h3>You’re discharging to a surface water</h3>
+<p>The application fee for domestic households and charities to discharge up to 5,000 litres (5 cubic metres) per day is £125.</p>
+<p>The fees are different for other organisations.</p>
+<tr>Size of discharge per day | Fee</tr>
+<tr>Up to 5,000 litres (5 cubic metres) | £2,534</tr>
+<tr>Between 5,000 litres (5 cubic metres) and 50,000 litres (50 cubic metres) | £4,170</tr>
+<tr>Any volume that contains specific substances | £7,649</tr>
+<h2>Annual fees</h2>
+<p>There’s an annual subsistence fee for sites that are not domestic households or charities.</p>
+<tr>Size of discharge per day | Fee</tr>
+<tr>Up to 5,000 litres | £251</tr>
+<tr>Between 5,000 litres and 20,000 litres with operator self monitoring | £823</tr>
+<tr>Between 5,000 litres and 20,000 litres | £890</tr>
+<tr>Between 20,000 litres and 50,000 litres with operator self monitoring | £1,310</tr>
+<h2>How long it takes</h2>
+<p>You should get a decision on your application within 13 weeks.</p>
+<p>You’ll be told if your application may take longer, for example because of planning issues.</p>
+<h2>Your application is refused</h2>
+<p>If your application is refused, you’ll be told:</p>
+<li>the reasons for refusal</li>
+<li>how you can appeal</li>
+<h2>Complying with your permit</h2>
+<p>See the guidance on how to comply with your permit, including maintenance, record keeping and pollution reporting requirements.</p>
+<h2>Get help</h2>
+<p>You can ask the Environment Agency for help with your application.</p>
+<h1>You have a cesspool</h1>
+<p>You do not have to comply with the general binding rules or apply for a permit.</p>
+<p>You must maintain your cesspool and make sure it:</p>
+<li>is emptied regularly (for example once a month) by a registered waste carrier</li>
+<li>does not leak or overflow</li>
+<p>The Environment Agency or your local council can make you repair or replace your cesspool if it’s in poor condition.</p>
+<h2>If you install a new cesspool</h2>
+<p>You must:</p>
+<li>get planning permission and building regulations approval</li>
+<li>make sure it has a minimum capacity of 18,000 litres per 2 users (plus another 6,800 litres per each extra user)</li>
+<h1>Contact</h1>

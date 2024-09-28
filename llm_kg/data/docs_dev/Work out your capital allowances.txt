@@ -1,0 +1,101 @@
+Work out your capital allowances
+<h1>Writing down allowances</h1>
+<p>When you buy business assets you can usually deduct the full value from your profits before tax using annual investment allowance (AIA).</p>
+<p>Use writing down allowances instead if:</p>
+<li>you’ve already claimed AIA on items worth a total of more than the AIA amount</li>
+<li>the item doesn’t qualify for AIA (for example, cars, gifts or things you owned before you used them in your business)</li>
+<p>Writing down allowances is when you deduct a percentage of the value of an item from your profits each year.</p>
+<p>The percentage you deduct depends on the item. For business cars the rate depends on their CO2 emissions.</p>
+<h2>Work out the value of your item</h2>
+<p>In most cases, the value is what you paid for the item. Use the market value (the amount you’d expect to sell it for) instead if:</p>
+<li>you owned it before you started using it in your business</li>
+<li>it was a gift</li>
+<h2>How to claim</h2>
+<p>Group the things you’ve bought into ‘pools’ based on the percentage rate they qualify for.</p>
+<p>When you know the rate for your items, work out how much you can claim and deduct it from your profits before tax on your tax return.</p>
+<p>The amount left in each pool becomes the starting balance for the next accounting period.</p>
+<h1>Rates and pools</h1>
+<p>If you’re claiming writing down allowances, group items into pools depending on which rate they qualify for.</p>
+<p>The 3 types of pool are the:</p>
+<li>main pool with a rate of 18%</li>
+<li>special rate pool with a rate of 6%</li>
+<li>single asset pools with a rate of 18% or 6% depending on the item</li>
+<h2>Main rate pool</h2>
+<p>Add the value of all ‘plant and machinery’  you’ve bought to the main rate pool, unless they’re in:</p>
+<li>the special rate pool</li>
+<li>a single asset pool (for example, because you have chosen to treat them as ‘short life’ assets or you’ve used them outside your business)</li>
+<h2>Special rate pool</h2>
+<p>You have to claim a lower rate of 6% on:</p>
+<li>parts of a building considered integral - known as ‘integral features’</li>
+<li>items with a long life</li>
+<li>thermal insulation of buildings</li>
+<li>cars with CO2 emissions over a certain threshold - check the threshold for your car, which depends on the car and when you bought it</li>
+<p>You can claim AIA on these items apart from cars. Only claim writing down allowances at 6% if you’ve already claimed AIA on items worth a total of more than the AIA amount.</p>
+<h3>Integral features</h3>
+<p>Integral features are:</p>
+<li>lifts, escalators and moving walkways</li>
+<li>space and water heating systems</li>
+<li>air-conditioning and air cooling systems</li>
+<li>hot and cold water systems (but not toilet and kitchen facilities)</li>
+<li>electrical systems, including lighting systems</li>
+<li>external solar shading</li>
+<p>Buildings themselves don’t qualify for capital allowances.</p>
+<h3>Items with a long life</h3>
+<p>These are items with a useful life of at least 25 years from when they were new.</p>
+<p>Put them in the special rate pool if the value of all the long-life items you buy in a single accounting period (the tax year if you’re a sole trader or partner) adds up to £100,000. Put them in the main rate pool if their total value is less than £100,000.</p>
+<p>This £100,000 limit is adjusted if your accounting period is more or less than 12 months.</p>
+<h2>Single asset pools</h2>
+<p>You might need to create one or more separate pools for single assets that:</p>
+<li>have a short life (for assets you aren’t going to keep for a long time)</li>
+<li>you use outside your business if you’re a sole trader or a partner</li>
+<h3>Short life assets</h3>
+<p>It’s up to you to decide whether you want to treat something as a short life asset. You can’t include:</p>
+<li>cars</li>
+<li>items you also use outside your business</li>
+<li>special rate items</li>
+<p>Large numbers of very similar items can be pooled together (for example, crockery in a restaurant).</p>
+<p>The pool ends when you sell the asset. This means you can claim the capital allowances over a shorter period.</p>
+<p>Move the balance into your main pool in your next accounting period or tax year if you’re still using the item after 8 years.</p>
+<h3>Let HMRC know</h3>
+<p>Let HM Revenue and Customs (HMRC) know on your tax return if you’re a limited company and you decide to create a short life asset pool. You must do this within 2 years of the end of the tax year when you bought the item.</p>
+<p>Let HMRC know in writing if you’re a sole trader or partner - include how much the item cost and when you acquired it. The deadline is the online filing deadline (31 January) for the tax year after the one you bought the item in.</p>
+<h3>Things you also use outside your business</h3>
+<p>If you use an item outside your business and you’re a sole trader or partner, put it in a separate pool.</p>
+<p>Work out your capital allowances at the main rate (18%) or the special rate (6%) depending on what the item is.</p>
+<p>Reduce the amount of capital allowances you can claim by the amount you use the asset outside your business.</p>
+<h2>If your accounting period is more or less than 12 months</h2>
+<p>You need to adjust the amount of writing down allowances you can claim if your accounting period is more or less than 12 months.</p>
+<h2>Items you’ve claimed AIA or first year allowances on</h2>
+<p>Record any items you’ve claimed annual investment allowance (AIA) or first year allowances on in the pool they qualify for. If you claim the full cost of an item you’ll need to write down their value as zero. This will help you to work out whether you owe tax if you sell them.</p>
+<h2>Items not claimed</h2>
+<p>Add costs you haven’t claimed first year allowances or annual investment allowance (AIA) on to the pool in the following year.</p>
+<h2>What to do next</h2>
+<p>When you know the rate for your items, work out how much you can claim.</p>
+<h1>Work out what you can claim</h1>
+<p>You can claim the full cost of the item if you’re claiming:</p>
+<li>annual investment allowance (AIA)</li>
+<li>first year allowances</li>
+<p>You claim based on the rate for items that don’t qualify for AIA or first year allowances.</p>
+<h2>Work out your allowance</h2>
+<p>Work out what you can claim separately for each pool.</p>
+<li>Take your closing balance from your last accounting period.</li>
+<li>Add the value of anything you’ve bought or been given in the current period that qualifies for this pool. Only include VAT if you’re not VAT registered.</li>
+<li>Deduct the value of anything you sold or ‘disposed of’ that originally qualified for this pool.</li>
+<li>Work out how much you can claim using the correct rate.</li>
+<li>Deduct the amount you can claim from the pool to get the closing balance. This is known as the ‘tax written down value’.</li>
+<h2>Items you use outside your business</h2>
+<p>For items that are in a single asset pool because you’ve used them outside your business, reduce the amount you can claim by the amount you use them privately.</p>
+<p>You still deduct the full amount from your pool to get the closing balance.</p>
+<h3>Items you use privately that aren’t in a single asset pool</h3>
+<p>If you start using something outside your business that you’ve already claimed capital allowances on:</p>
+<li>add the market value of the item (the amount you’d expect to sell it for) to a single asset pool</li>
+<li>deduct the same amount from the pool it was in</li>
+<p>If the amount you deduct is more than the balance in the pool, the difference is a ‘balancing charge’ - you must put it on your tax return.</p>
+<h2>Claiming less than you’re entitled to</h2>
+<p>You don’t have to claim the full amount you’re entitled to. If you only claim part, the rest stays in your closing balance.</p>
+<h2>If you have £1,000 or less in your pool</h2>
+<p>You can claim the full amount if the balance in your main or special rate pool is £1,000 or less before you work out your allowance.</p>
+<p>This is called a small pools allowance. It doesn’t apply to single asset pools. You can either claim a small pools allowance or writing down allowances - you can’t claim both.</p>
+<p>This amount is adjusted if your accounting period is more or less than 12 months.</p>
+<h2>How to claim</h2>
+<p>Claim on your tax return.</p>

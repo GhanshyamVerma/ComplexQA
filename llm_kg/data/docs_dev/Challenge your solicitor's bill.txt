@@ -1,0 +1,53 @@
+Challenge your solicitor's bill
+<h1>Overview</h1>
+<p>You can challenge your solicitor’s bill if you think you’ve been charged too much.</p>
+<p>Ask the Senior Courts Costs Office to make a ‘detailed assessment’ of your bill. They can reduce your bill if they agree it’s too expensive.</p>
+<p>There’s a different process if you want to complain about your solicitor’s behaviour.</p>
+<h2>Before you apply</h2>
+<p>Try to solve the problem with your solicitor before contacting the court.</p>
+<p>You can complain to your solicitor directly by following their complaints procedure.</p>
+<p>You can also get free legal help and advice from:</p>
+<li>your local Citizens Advice Bureau</li>
+<li>your local Law Centre</li>
+<li>the Royal Courts of Justice Advice Bureau</li>
+<h2>When to apply</h2>
+<p>You must apply to the court before asking for a detailed assessment. You must do this within one month of getting your solicitor’s bill.</p>
+<p>If you do not, you can still apply within a year of getting the bill, but the court might ask you to pay part or all of what you owe upfront. You’ll get back what you’ve overpaid if the judge agrees you’ve been charged too much.</p>
+<p>You might also be able to apply if you’ve already paid your solicitor’s bill or it’s been over a year since you got it. You can only do this in special circumstances - you must explain what these are when you apply.</p>
+<h1>How to apply</h1>
+<p>Download and fill in 3 copies of Part 8 claim form (N208). You must pay £45.</p>
+<p>Send a cheque made payable to ‘HMCTS’ with all 3 copies of your completed form and a copy of your solicitor’s bill to:</p>
+<p>You can apply to your local District Registry (a court that deals with certain High Court cases) instead if you live outside of London.</p>
+<p>Apply to your nearest county court if the original case was dealt with by a county court and your solicitor’s bill is for £5,000 or less.</p>
+<h2>What happens next</h2>
+<p>The court will keep one copy of your claim form. The other copies will be sent to you and your solicitor and stamped with an issue date.</p>
+<p>You’ll then get an ‘acknowledgement of service’ from your solicitor confirming they’ve seen your application.</p>
+<p>You’ll be asked to attend a hearing if your solicitor does not think you should have a detailed assessment. You’ll get a ‘notice of hearing’ from the court saying when and where the hearing will take place.</p>
+<p>You’ll get a letter from your solicitor if they agree to a detailed assessment. Send a copy of this letter to the court.</p>
+<p>If your solicitor does not challenge your application, you can ask them to give their consent. If they agree then the court might decide neither of you will need to go to the hearing.</p>
+<h2>If you have a hearing</h2>
+<p>Both you and the other side will present your case to a Costs Judge (or a District Judge if the hearing is held outside London).</p>
+<p>You must bring with you copies of any documents you’ve sent to the court as part of your application.</p>
+<p>The court will decide whether to order a detailed assessment. You’ll get the decision then or by post within a few days of the hearing.</p>
+<h2>If you disagree with the decision</h2>
+<p>You can make an appeal if you disagree with the court’s decision.</p>
+<p>You must get permission before you appeal - you can ask the Costs Judge at the hearing.</p>
+<p>You can ask the appeal court for permission if you’re refused or do not ask for it at the hearing. Read leaflet EX340 for more information.</p>
+<h1>Get a detailed assessment</h1>
+<p>You’ll be given a court order after the hearing that says whether you can have a detailed assessment.</p>
+<p>The detailed assessment will take place at another hearing.</p>
+<p>Download and fill in request form (N258C). You must also pay a court fee. How much you pay will depend on the size of your solicitor’s bill.</p>
+<tr>Amount on your solicitor’s bill | Fee</tr>
+<tr>£15,000 or less | £335</tr>
+<tr>£15,000.01 to £50,000 | £675</tr>
+<tr>£50,000.01 to £100,000 | £1,005</tr>
+<tr>£100,000.01 to £150,000 | £1,345</tr>
+<tr>£150,000.01 to £200,000 | £1,680</tr>
+<tr>£200,000.01 to £300,000 | £2,520</tr>
+<tr>£300,000.01 to £500,000 | £4,200</tr>
+<tr>£500,000.01 or more | £5,600</tr>
+<h2>Other fees</h2>
+<p>You must pay your own costs and the other party’s reasonable costs of the detailed assessment, unless:</p>
+<li>the judge reduces your solicitor’s bill by 20% or more</li>
+<li>there are special circumstances, for example you originally offered to settle the bill for an amount more than the final amount fixed by the court</li>
+<p>How much you pay will depend on how much time your solicitor has spent in court - this is usually worked out from their hourly rate.</p>

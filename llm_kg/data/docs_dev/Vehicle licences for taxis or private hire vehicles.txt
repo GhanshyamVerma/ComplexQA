@@ -1,0 +1,56 @@
+Vehicle licences for taxis or private hire vehicles
+<h1>Where to apply</h1>
+<p>To operate your vehicle as a taxi or private hire vehicle (PHV) you need to get it licensed.</p>
+<p>There are different ways for you apply depending on whether you’ll operate:</p>
+<li>outside London</li>
+<li>inside London</li>
+<p>There is a different process for Northern Ireland.</p>
+<h1>Outside London</h1>
+<p>You must get your taxi or private hire vehicle inspected and licensed by your local council.</p>
+<h2>Apply</h2>
+<p>Contact your local council to apply for a vehicle licence.</p>
+<h2>Eligibility</h2>
+<p>You must get a licence for each vehicle. The vehicle must have no more than 8 passenger seats.</p>
+<h2>Inspections and insurance</h2>
+<p>The council may check your vehicle to make sure:</p>
+<li>it’s roadworthy</li>
+<li>it’s comfortable and clean</li>
+<li>the taximeter works properly</li>
+<li>the doors are safe and secure</li>
+<p>You’ll also need insurance that:</p>
+<li>covers you for hire and reward</li>
+<li>includes you as the named driver</li>
+<p>The council decides how often it tests vehicles but can’t test more than 3 times in a year.</p>
+<p>You must fix any problems within 2 months of failing a test. You can lose your vehicle licence if you don’t.</p>
+<h2>Conditions</h2>
+<p>The council can attach conditions to vehicle licences. These might include:</p>
+<li>the colour scheme of your vehicle</li>
+<li>the use of roof signs</li>
+<li>use of a taximeter</li>
+<h2>Refusals and appeals</h2>
+<p>The council can refuse your application if:</p>
+<li>your vehicle doesn’t meet certain criteria</li>
+<li>you don’t accept conditions it gives you</li>
+<li>it wants to control the number of taxis in the area</li>
+<p>When the council makes its decision it will explain your right to appeal if:</p>
+<li>your application for a vehicle licence has been refused</li>
+<li>the licensing authority has suspended, revoked or refused to renew a vehicle licence</li>
+<p>You appeal to a crown court about a taxi licence decision or to a magistrates court about a private hire vehicle decision.</p>
+<h1>Inside London</h1>
+<p>Taxis and private hire vehicles (PHV) in London must be inspected and licensed by Transport for London (TfL).</p>
+<h2>Vehicle licences for London taxis</h2>
+<h3>Apply</h3>
+<p>Your taxi must be inspected by TfL to get your vehicle licence.</p>
+<h3>Eligibility</h3>
+<p>You must meet the eligibility criteria set by TfL for your vehicle.</p>
+<h2>Vehicle licences for private hire vehicles</h2>
+<h3>Apply</h3>
+<p>If you want to use a vehicle for private hire work, you’ll need to have it licensed by TfL.</p>
+<h3>Eligibility</h3>
+<p>Your PHV must:</p>
+<li>have no more than 8 passenger seats</li>
+<li>not look like a licensed taxi, eg London-style ‘black cab’</li>
+<li>only display advertising that complies with TfL guidelines</li>
+<li>display licence discs - although exemptions are sometimes granted</li>
+<h2>Get your vehicle inspected</h2>
+<p>Your vehicle will need to be inspected by TfL.</p>

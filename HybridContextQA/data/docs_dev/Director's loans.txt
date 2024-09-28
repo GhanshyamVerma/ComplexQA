@@ -1,0 +1,59 @@
+Director's loans
+<h1>Overview</h1>
+<p>A director’s loan is when you (or other close family members) get money from your company that is not:</p>
+<li>a salary, dividend or expense repayment</li>
+<li>money you’ve previously paid into or loaned the company</li>
+<h2>Records you must keep</h2>
+<p>You must keep a record of any money you borrow from or pay into the company - this record is usually known as a ‘director’s loan account’.</p>
+<h3>At the end of your company’s financial year</h3>
+<p>Include any money you owe the company or the company owes you on the ‘balance sheet’ in your annual accounts.</p>
+<h2>Tax on loans</h2>
+<p>You may have to pay tax on director’s loans. Your company may also have to pay tax if you’re a shareholder (sometimes called a ‘participator’) as well as a director.</p>
+<p>Your personal and company tax responsibilities depend on whether the director’s loan account is:</p>
+<li>overdrawn - you owe the company</li>
+<li>in credit - the company owes you</li>
+<h1>If you owe your company money</h1>
+<p>You or your company may have to pay tax if you take a director’s loan.</p>
+<p>Your personal and company tax responsibilities depend on how the loan is settled. You also need to check if you have extra tax responsibilities if:</p>
+<li>the loan was more than £10,000 (£5,000 in 2013-14)</li>
+<li>you paid your company interest on the loan below the official rate</li>
+<tr> | Your company’s responsibilities if you’re a shareholder and director | Your personal responsibilities when you get a director’s loan</tr>
+<tr>You repay the loan within 9 months of the end of your Corporation Tax accounting period | Use form CT600A when you prepare your Company Tax Return to show the amount owed at the end of the accounting period.If the loan was more than £5,000 (and you took another loan of £5,000 or more up to 30 days before or after you repaid it) pay Corporation Tax at 32.5% of the original loan, or 25% if the loan was made before 6 April 2016. After you permanently repay the original loan, you can reclaim the Corporation Tax - but not interest.If the loan was more than £15,000 (and you arranged another loan when you repaid it) pay Corporation Tax at 32.5% of the original loan, or 25% if the loan was made before 6 April 2016. After you permanently repay the original loan, you can reclaim the Corporation Tax - but not interest. | No responsibilities</tr>
+<tr>You do not repay the loan within 9 months of the end of your Corporation Tax accounting period | Use form CT600A when you prepare your Company Tax Return to show the amount owed at the end of the accounting period.   Pay Corporation Tax at 32.5% of the outstanding amount, or 25% if the loan was made before 6 April 2016.   Interest on this Corporation Tax will be added until the Corporation Tax is paid or the loan is repaid.  You can reclaim the Corporation Tax - but not interest. | No responsibilities</tr>
+<tr>The loan is ‘written off’ or ‘released’ (not repaid) | Deduct Class 1 National Insurance through the company’s payroll. | Pay Income Tax on the loan through a Self Assessment tax return</tr>
+<h2>If the loan was more than £10,000 (£5,000 in 2013-14)</h2>
+<p>If you’re a shareholder and director and you owe your company more than £10,000 (£5,000 in 2013 to 2014) at any time in the year, your company must:</p>
+<li>treat the loan as a ‘benefit in kind’</li>
+<li>deduct Class 1 National Insurance</li>
+<p>You must report the loan on a personal Self Assessment tax return. You may have to pay tax on the loan at the official rate of interest.</p>
+<h2>If you paid interest below the official rate</h2>
+<p>If you’re a shareholder and director, your company must:</p>
+<li>record interest you pay below the official rate as company income</li>
+<li>treat the discounted interest as a ‘benefit in kind’</li>
+<p>You must report the interest on a personal Self Assessment tax return. You may have to pay tax on the difference between the official rate and the rate you paid.</p>
+<h2>Reclaim Corporation Tax</h2>
+<p>Your company can reclaim the Corporation Tax it pays on a director’s loan that’s been repaid, written off or released. You cannot reclaim any interest paid on the Corporation Tax.</p>
+<p>Claim after the relief is due - this is 9 months and 1 day after the end of the Corporation Tax accounting period when the loan was repaid, written off or released. You will not be repaid before this.</p>
+<p>You must claim within 4 years (or 6 years if the loan was repaid on or before 31 March 2010).</p>
+<h3>Reclaiming within 2 years</h3>
+<p>If you’re reclaiming within 2 years of the end of the accounting period when the loan was taken out, use form CT600A to claim when you prepare a Company Tax Return for that accounting period or amend it online.</p>
+<p>Use form L2P with your Company Tax Return instead if either:</p>
+<li>your tax return is for a different accounting period than the one when the loan was taken out</li>
+<li>you’re amending your tax return in writing</li>
+<p>Tell HMRC how you want the repayment in your Company Tax Return.</p>
+<h3>Reclaiming after 2 years</h3>
+<p>If you’re reclaiming 2 years or more after the end of the accounting period when the loan was taken out, fill in form L2P and either include it with your latest Company Tax Return or post it separately.</p>
+<p>HMRC will repay your company by either:</p>
+<li>using the details you gave in your latest Company Tax Return</li>
+<li>sending a cheque to your company’s registered office address</li>
+<h1>If you lend your company money</h1>
+<p>Your company does not pay Corporation Tax on money you lend it.</p>
+<h3>If you charge interest</h3>
+<p>Interest you charge your company on a loan counts as both:</p>
+<li>a business expense for your company</li>
+<li>personal income for you</li>
+<p>You must report the income on a personal Self Assessment tax return.</p>
+<p>Your company must:</p>
+<li>pay you the interest less Income Tax at the basic rate of 20%</li>
+<li>report and pay the Income Tax every quarter using form CT61</li>
+<p>You can request form CT61 online or call HM Revenue  and Customs.</p>

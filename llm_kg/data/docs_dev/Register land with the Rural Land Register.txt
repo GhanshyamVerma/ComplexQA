@@ -1,0 +1,47 @@
+Register land with the Rural Land Register
+<h1>Overview</h1>
+<p>You must use the Rural Land Register (RLR) to register agricultural land.</p>
+<p>You can register any type of land or property with HM Land Registry.</p>
+<p>You must register your land with both the RLR and HM Land Registry to claim from most land-based funding schemes, including:</p>
+<li>Environmental Stewardship schemes</li>
+<li>the English Woodland Grant Scheme</li>
+<p>Register with your local Rural Payments and Inspections Directorate (RPID) office if your land is in Scotland.</p>
+<h2>What to register</h2>
+<p>You only need to register land that you want to claim payments on. This includes land that:</p>
+<li>you farm</li>
+<li>qualifies for land-based payment schemes, for example because it has environmental value</li>
+<h2>What you’ll get</h2>
+<p>You’ll get a complete set of maps showing your registered land.</p>
+<h1>Who can register</h1>
+<h2>Customer registration</h2>
+<p>You need to register as a customer with the Rural Payments Agency (RPA) before you register your land. You’ll need to tell them:</p>
+<li>the name and address of your business</li>
+<li>who is legally responsible for your business</li>
+<li>the address of your land, including the grid reference or postcode</li>
+<li>who your main contact person should be and what powers they should have</li>
+<p>The main contact person can be yourself, a person legally responsible for your business or someone independent (an agent).</p>
+<p>You can give an agent full powers (empowerment) to deal with your land registration or partial powers (for example, they can access information but not change it).</p>
+<p>The Rural Payments Agency has produced a leaflet about the different levels of empowerment you can give your contact person.</p>
+<p>Call the RPA to give this information for the first time or change existing contact details for your business.</p>
+<p>You’ll receive a Single Business Identifier for your business, and each person will get a Personal Identifier. You’ll need these to register your land.</p>
+<h2>Landlords and tenants</h2>
+<p>Either the landlord or the tenant can register land on the Rural Land Register, but the land can only be registered once.</p>
+<p>However, it’s possible for the landlord to claim funds under one land scheme and their tenant to claim under another.</p>
+<h1>How to register land or change a registration</h1>
+<p>You can use the RLE1 form to:</p>
+<li>register new land for the first time</li>
+<li>make changes to land already on the Rural Land Register, for example if the boundaries change or if you sell the land to someone else</li>
+<p>Fill in the form and post it to the Rural Payments Agency (RPA). You can either download the form below or ask the RPA to send you a pre-printed copy.</p>
+<p>You’ll need to give your Single Business Identifier - you’ll get this when you complete the customer registration process for the first time.</p>
+<p>You also need to enclose a map with a visible scale if you’re registering land for the first time, or if your boundaries have changed. Mark your land boundaries clearly with a fine-tipped pen.</p>
+<p>Read the guidance on filling out form RLE1.</p>
+<h2>Contacting the RPA</h2>
+<h1>If you live in Scotland, Wales or Northern Ireland</h1>
+<p>The Rural Land Register only covers land in England.</p>
+<p>If your land is in more than one country, you’ll need to register each piece of land separately for each country.</p>
+<p>Contact the Rural Payments Agency if you have land in more than one country and have questions about your land in England.</p>
+<p>Use the numbers below if you have land in more than one country and have questions about land in Scotland, Northern Ireland or Wales.</p>
+<h2>Land in Scotland</h2>
+<h2>Land in Northern Ireland</h2>
+<h2>Land in Wales</h2>
+<p>Find out about call charges.</p>

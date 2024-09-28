@@ -1,0 +1,104 @@
+Pay your Corporation Tax bill
+<h1>Overview</h1>
+<p>The deadline for your payment will depend on your taxable profits.</p>
+<h3>Taxable profits of up to £1.5 million</h3>
+<p>You must pay your Corporation Tax 9 months and 1 day after the end of your accounting period. Your accounting period is usually your financial year, but you may have 2 accounting periods in the year you set up your company.</p>
+<h3>Taxable profits of more than £1.5 million</h3>
+<p>You must pay your Corporation Tax in instalments.</p>
+<p>Check the rules and deadlines:</p>
+<li>if your taxable profits are between £1.5 million and £20 million</li>
+<li>if your taxable profits are more than £20 million</li>
+<h2>Ways to pay</h2>
+<p>Make sure you pay HM Revenue and Customs (HMRC) by the deadline. They may charge you interest if you do not pay on time. They’ll pay you interest if you pay your tax early.</p>
+<p>Pay now</p>
+<p>The time you need to allow depends on how you pay.</p>
+<p>You can no longer pay at the Post Office.</p>
+<h3>Same day or next day</h3>
+<li>online or telephone banking (Faster Payments)</li>
+<li>CHAPS</li>
+<li>through your online bank account</li>
+<h3>3 working days</h3>
+<li>Bacs</li>
+<li>Direct Debit (if you’ve set one up before)</li>
+<li>online by debit or corporate credit card</li>
+<li>at your bank or building society</li>
+<h3>5 working days</h3>
+<li>Direct Debit (if you have not set one up before)</li>
+<p>You cannot pay Corporation Tax by post.</p>
+<p>If the deadline falls on a weekend or bank holiday, make sure your payment reaches HMRC on the last working day before it (unless you’re paying by Faster Payments).</p>
+<h1>Make an online or telephone bank transfer</h1>
+<p>You can pay HM Revenue and Customs (HMRC) by Faster Payments, CHAPS or Bacs.</p>
+<p>The back of your payslip, sent to you by HMRC, tells you which account to use. If you’re not sure, use Cumbernauld.</p>
+<tr> | Sort code | Account number</tr>
+<tr>HMRC Cumbernauld | 083210 | 12001039</tr>
+<tr>HMRC Shipley | 083210 | 12001020</tr>
+<h2>Reference number</h2>
+<p>Use your 17-character Corporation Tax payslip reference for the accounting period you’re paying.</p>
+<p>You’ll find the payslip reference:</p>
+<li>on any payslip that HMRC sent you</li>
+<li>through your company’s HMRC online account - choose ‘View account’ then ‘Accounting period’</li>
+<p>Your payment may be delayed if you use the wrong reference number.</p>
+<h2>How long it takes</h2>
+<p>Payments made by Faster Payments (online or telephone banking) will usually reach HMRC on the same or next day, including weekends and bank holidays.</p>
+<p>CHAPS payments usually reach HMRC the same working day if you pay within your bank’s processing times.</p>
+<p>Bacs payments usually take 3 working days.</p>
+<p>Check your bank’s transaction limits and processing times before making a payment.</p>
+<h3>Overseas accounts</h3>
+<p>Use these details to pay from an overseas account.</p>
+<tr> | Account number (IBAN) | Bank identifier code (BIC)</tr>
+<tr>HMRC Cumbernauld | GB62BARC20114770297690 | BARCGB22</tr>
+<tr>HMRC Shipley | GB03BARC20114783977692 | BARCGB22</tr>
+<h2>Multiple payments by CHAPS</h2>
+<p>Send an online CHAPS enquiry form if you want to make a single payment to cover more than one company for the same accounting period.</p>
+<p>HMRC’s banking address is:</p>
+<h1>Approve a payment through your online bank account</h1>
+<p>You can pay your Corporation Tax bill directly using your online or mobile bank account.</p>
+<p>When you’re ready to pay, select ‘start a payment’ and then ‘pay by bank account’. You’ll then be directed to sign in to your online or mobile banking account to approve your Corporation Tax payment.</p>
+<p>The payment is usually instant but sometimes it takes up to 2 hours to show in your account.</p>
+<p>You’ll need to have your online banking details ready to pay this way.</p>
+<h1>By debit or corporate credit card online</h1>
+<p>You can pay online.</p>
+<p>There’s a fee if you pay by corporate credit card or corporate debit card. The fee is not refundable.</p>
+<p>There’s no fee if you pay by personal debit card.</p>
+<p>You cannot pay with a personal credit card.</p>
+<p>Use your 17-character Corporation Tax payslip reference for the accounting period you’re paying.</p>
+<p>You’ll find the payslip reference:</p>
+<li>on any payslip that HM Revenue and Customs (HMRC) sent you</li>
+<li>through your company’s HMRC online account - choose ‘View account’ then ‘Accounting period’</li>
+<p>Your payment may be delayed if you use the wrong reference number.</p>
+<p>If you’re unable to pay your Corporation Tax bill in full by card, you should use another payment method like a bank transfer.</p>
+<h2>How long it takes</h2>
+<p>Allow 3 working days for your payment to reach HMRC’s bank account.</p>
+<h1>At your bank or building society</h1>
+<p>You can pay at a branch by cash or cheque.</p>
+<p>You’ll need to use the payslip that HM Revenue and Customs (HMRC) sends you.</p>
+<p>Make your cheque payable to ‘HM Revenue and Customs only’.</p>
+<p>Write your 17-character Corporation Tax payslip reference number on the back of your cheque
+for the accounting period you’re paying. You can find the reference number on the payslip sent to you by HMRC.</p>
+<p>Allow 3 working days for your payment to reach HMRC’s bank account.</p>
+<h2>If you do not have a payslip</h2>
+<p>You’ll need to pay by another method instead, for example:</p>
+<li>debit or credit card online</li>
+<li>online or telephone banking</li>
+<li>Direct Debit</li>
+<h1>Direct Debit</h1>
+<p>Set up and make changes to a Direct Debit through your company’s HM Revenue and Customs (HMRC) online account.</p>
+<p>Use your 17-character Corporation Tax payslip reference for the accounting period you’re paying.</p>
+<p>You can find the payslip reference:</p>
+<li>on the payslip that HMRC sent you</li>
+<li>through your company’s HMRC online account - choose ‘View account’ then ‘Accounting period’</li>
+<p>Your payment may be delayed if you use the wrong reference number.</p>
+<h2>How long it takes</h2>
+<p>Allow 5 working days to process a Direct Debit the first time you set one up.</p>
+<p>It should take 3 working days each time you pay once you’ve already authorised a Direct Debit from HMRC.</p>
+<p>Payments will appear on your bank statements as ‘HMRC NDDS’.</p>
+<h1>Payments for a group of companies</h1>
+<p>If your company is in a group, you can pay Corporation Tax under a Group Payment Arrangement. HM Revenue and Customs (HMRC) will write to tell you the correct payslip reference.</p>
+<h1>Tell HMRC no payment is due</h1>
+<p>Tell HM Revenue and Customs (HMRC) if you have nothing to pay. HMRC will send you payment reminders if you do not.</p>
+<p>You can tell HMRC by either:</p>
+<li>filling in the ‘nil to pay’ form</li>
+<li>sending back the payslip on the reminder HMRC sends you, marked ‘NIL due’</li>
+<p>You must still file your company tax return.</p>
+<h1>Check your payment has been received</h1>
+<p>Check your HM Revenue and Customs (HMRC) online account to see if your payment has been received. It should be updated within a few days of HMRC receiving the payment.</p>

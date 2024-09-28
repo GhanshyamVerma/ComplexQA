@@ -1,0 +1,26 @@
+{
+    "total": {
+        "EM": 0.10175438596491228,
+        "EM_with_conditions": 0.0,
+        "F1": 0.2123375922819645,
+        "F1_with_conditions": 0.10794431601736484
+    },
+    "yesno": {
+        "EM": 0.1993006993006993,
+        "EM_with_conditions": 0.0,
+        "F1": 0.31033227319789813,
+        "F1_with_conditions": 0.11078182364744872
+    },
+    "extractive": {
+        "EM": 0.00390625,
+        "EM_with_conditions": 0.0,
+        "F1": 0.12608358385203453,
+        "F1_with_conditions": 0.11658069752627968
+    },
+    "conditional": {
+        "EM": 0.4603174603174603,
+        "EM_with_conditions": 0.0,
+        "F1": 0.4836568432394813,
+        "F1_with_conditions": 0.011401545852006681
+    }
+}

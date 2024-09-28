@@ -1,0 +1,62 @@
+Tax on property, money and shares you inherit
+<h1>Overview</h1>
+<p>You don’t usually pay tax on anything you inherit at the time you inherit it.</p>
+<p>You may need to pay:</p>
+<li>Income Tax on profit you later earn from your inheritance, eg dividends from shares or rental income from a property</li>
+<li>Capital Gains Tax if you later sell shares or a property you inherited</li>
+<li>Inheritance Tax</li>
+<h2>Inheritance Tax</h2>
+<p>The estate of the person who died usually pays Inheritance Tax. You may need to pay Inheritance Tax if the estate can’t or doesn’t pay it.</p>
+<p>You may need to pay Inheritance Tax on a gift the person gave you in the 7 years before they died.</p>
+<p>You may also need to pay it if your inheritance is put into a trust and the trust can’t or doesn’t pay.</p>
+<p>If the will says the Inheritance Tax should be paid out of the assets you’ve inherited, the executor of the will or administrator of the estate will usually pay it.</p>
+<p>HM Revenue and Customs (HMRC) will contact you if you need to pay.</p>
+<h1>Money and shares</h1>
+<p>In most cases you don’t pay any tax on money and shares when you inherit them.</p>
+<h2>Inheritance Tax</h2>
+<p>You may have to pay Inheritance Tax on money and shares you inherit if the deceased person’s estate can’t or doesn’t pay.</p>
+<p>HM Revenue and Customs (HMRC) will contact you if you need to pay.</p>
+<p>Any money or shares the person gave you before they died are known as gifts and have different rules.</p>
+<h2>Income Tax</h2>
+<p>You may have to pay Income Tax on:</p>
+<li>interest you earn from money you inherit</li>
+<li>dividends paid on shares you inherit</li>
+<h2>Capital Gains Tax</h2>
+<p>You’ll have to pay Capital Gains Tax if you sell (‘dispose of’) inherited shares that have gone up in value since the person died.</p>
+<h1>Property</h1>
+<p>You don’t pay Stamp Duty, Income Tax or Capital Gains Tax on a property you inherit when you inherit it.</p>
+<p>You may have to pay Inheritance Tax if the deceased’s estate can’t or doesn’t pay it.</p>
+<p>HM Revenue and Customs (HMRC) will contact you if you need to pay.</p>
+<p>The rules are different in Scotland.</p>
+<h2>Selling the property</h2>
+<p>You don’t pay Capital Gains Tax when you sell your home. You do pay it if you make a profit when you sell a property that isn’t your main home.</p>
+<p>If inheriting a property means you own 2 homes, you’ll have to nominate one of them as your main home. You must tell HMRC which property is your main home within 2 years of inheriting the property.</p>
+<p>If you don’t tell HMRC and you sell one of the properties, they’ll decide which property was your main home.</p>
+<h2>Renting out the property</h2>
+<p>You may have to pay tax on the rental income.</p>
+<h2>Properties held in trust</h2>
+<p>Usually if you inherit property held in a trust, you are the ‘beneficiary’ and the trustees are the legal owners and responsible for paying tax on income the trust receives.</p>
+<p>You may still have to pay tax on any income you receive from the trust.</p>
+<h3>Bare trusts</h3>
+<p>If the trust is a ‘bare trust’ you are both the beneficiary and the legal owner and are responsible for paying tax on income the trust receives.</p>
+<h1>Joint property, shares and bank accounts</h1>
+<p>In most cases, you don’t have to pay any Stamp Duty or tax when you inherit property, shares or the money in joint bank accounts you owned with the deceased.</p>
+<h2>Inheritance Tax</h2>
+<p>What you pay will depend on how you owned the shares or property or how your bank accounts were set up.</p>
+<p>If you and the deceased jointly owned the assets, you’ll be known as ‘joint tenants’ (‘joint owners’ in Scotland).</p>
+<p>If you each owned a part of the assets, you’ll be known as ‘tenants in common’ (‘common owners’ in Scotland and ‘coparceners’ in Northern Ireland). Each part could be half or an agreed percentage of the money, shares or property.</p>
+<p>Check with your bank if you’re not sure how the money in your account(s) was divided up.</p>
+<h3>Joint tenants</h3>
+<p>You automatically inherit anything you owned as ‘joint tenants’.</p>
+<p>You may have to pay Inheritance Tax if the whole of the deceased’s estate (all their money, property and possessions) is worth more than the Inheritance Tax threshold of £325,000 and the deceased’s estate can’t or doesn’t pay.</p>
+<h3>Tenants in common</h3>
+<p>You may have to pay Inheritance Tax on the deceased’s share of the money in bank accounts, shares or property if the whole of their estate (money, property and possessions) is worth more than the Inheritance Tax threshold of £325,000.</p>
+<p>If the deceased left you their share of the money, shares or property in their will, the executor of the will or administrator of their estate should pay the Inheritance Tax out of the estate.</p>
+<p>But if the estate doesn’t have enough money to pay the Inheritance Tax on the deceased’s share of the assets, or the executor doesn’t pay, you’ll have to pay it. You may have to sell the shares or property to pay the tax and any other debts.</p>
+<p>HM Revenue and Customs (HMRC) will contact you if you need to pay.</p>
+<p>You may have to tell the Land Registry about the death of one of the property’s owners.</p>
+<h2>Income Tax and Capital Gains Tax</h2>
+<p>You may have to pay other taxes on anything you earn or profits you make from:</p>
+<li>bank interest</li>
+<li>share dividends</li>
+<li>property</li>

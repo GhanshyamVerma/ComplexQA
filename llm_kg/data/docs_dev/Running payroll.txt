@@ -1,0 +1,230 @@
+Running payroll
+<h1>Overview</h1>
+<p>As an employer operating PAYE as part of your payroll, you need to complete certain tasks during each tax month. Tax months run from the 6th of one month to the 5th of the next.</p>
+<p>You must tell HM Revenue and Customs (HMRC) if you’ve not paid any employees in a tax month.</p>
+<h2>On or before your employees’ payday</h2>
+<p>Every time you pay your employees, use your payroll software to:</p>
+<li>Record their pay - include their salary or wages and any other pay.</li>
+<li>Calculate deductions from their pay, like tax and National Insurance.</li>
+<li>Calculate the employer’s National Insurance contribution that you’ll need to pay on their earnings above £184 a week.</li>
+<li>Produce payslips for each employee (you can use different software if yours does not have this feature).</li>
+<li>Report their pay and deductions to HMRC in a Full Payment Submission (FPS).</li>
+<p>If you pay an employee less than £120 a week, you usually only need to record and report their pay (unless they have another job or receive a pension).</p>
+<h2>In the next tax month (starting on the 6th)</h2>
+<p>You can view what you owe from your FPS online from the 12th.</p>
+<li>Claim any reduction on what you’ll owe HMRC (for example statutory pay) by sending an Employer Payment Summary (EPS) by the 19th.</li>
+<li>View the balance of what you owe in your HMRC online account, within 2 days (or by the 14th if you sent the EPS before the 11th).</li>
+<li>Pay HMRC by the 22nd (or the 19th if paying by post) - you may have to pay a penalty if you do not.</li>
+<p>If you usually pay less than £1,500 per month, you may be able to pay quarterly instead of monthly. Contact the payment helpline to find out.</p>
+<h2>Late reporting</h2>
+<p>HMRC will send you a late filing notice if you’ve paid any employees and do not send an FPS or send one late. They can also charge you a penalty, unless you have a valid reason for reporting late.</p>
+<p>Late, missing or incorrect payroll reports can also affect your employees’ income-related benefits, such as Universal Credit.</p>
+<p>HMRC will close your PAYE scheme if you’re a new employer and you do not send a report to or pay HMRC in 120 days.</p>
+<h1>Employees' pay</h1>
+<p>Record your employees’ salary or wages in your payroll software. Include everyone you pay, even if they get less than £120 a week.</p>
+<h2>Recording other types of pay</h2>
+<h3>Statutory pay</h3>
+<p>You may have to pay your employee:</p>
+<li>Statutory Sick Pay (SSP)</li>
+<li>statutory pay for parents (maternity, paternity, adoption, bereavement or shared parental pay)</li>
+<p>You must record these in your software - they’re taxed like normal pay.</p>
+<p>You can reclaim statutory pay for parents.</p>
+<h3>Expenses and benefits</h3>
+<p>Expenses or benefits like uniforms or company cars are reported separately at the end of the tax year. Check the rules to find out what counts as expenses and benefits, and what you should record in your software as normal pay.</p>
+<h3>Tips and other pay</h3>
+<p>Treat tips to your staff as normal pay if they’re paid into your till - this includes tips added to your customers’ card or cheque payments. The rules are different if tips are given straight to your employees by customers or paid into a tronc.</p>
+<p>Other payments you may give your employee that you should record as normal pay include:</p>
+<li>bonuses</li>
+<li>commission</li>
+<li>holiday pay (unless you pay it in advance or use a holiday pay scheme)</li>
+<li>payments for time your employee has spent travelling</li>
+<li>passenger payments, except the first 5 pence per mile</li>
+<li>medical suspension payments, given to an employee you’ve suspended for health reasons</li>
+<li>maternity suspension payments, given to an employee you’ve suspended for her, or her baby’s, health</li>
+<li>guarantee payments, paid to an employee for a day they do not work (and not paid holiday)</li>
+<li>office holders’ payments (honoraria), given to employees for providing a service, for example being your company’s sports-club secretary</li>
+<li>payments that can be converted into cash, for example cheques, Savings Certificates or Premium Bonds</li>
+<li>inducement payments (‘golden hello’ payments)</li>
+<li>cash prizes for competitions you run</li>
+<p>The rules are different for non-cash payments like shares or commodities, cash-in-hand or guarantee payments and employee incentive awards.</p>
+<h1>Deductions</h1>
+<p>Your payroll software will calculate how much tax and National Insurance to deduct from your employees’ pay. These deductions are worked out using each employee’s tax code and National Insurance category letter.</p>
+<p>You may also need to deduct student loan repayments, pension contributions, Payroll Giving donations and child maintenance payments.</p>
+<h2>Student and Postgraduate loan repayments</h2>
+<p>Use your payroll software to record if your employee needs to make student loan repayments - both in your software and on payslips.</p>
+<p>You’ll need to calculate and deduct how much they need to repay based on which plan they’re on. They repay:</p>
+<li>9% of their income above £19,895 a year for Plan 1</li>
+<li>9% of their income above £27,295 a year for Plan 2</li>
+<li>9% of their income above £25,000 a year for Plan 4</li>
+<li>6% of their income above £21,000 a year for Postgraduate loans</li>
+<h2>Pensions</h2>
+<p>Make pension deductions after you take off National Insurance. You normally make pension deductions before you take off tax - check with your workplace pension provider.</p>
+<p>You’ll also need to pay any employer contributions into your employee’s pension.</p>
+<p>A new law means all employers will have to provide and pay into a workplace pension scheme for their employees - this is called ‘automatic enrolment’.</p>
+<h2>Payroll Giving</h2>
+<p>Your employees can donate to charity directly from their pay before tax is deducted using Payroll Giving.</p>
+<p>Register with a Payroll Giving agency to set up a scheme. They’ll let you know how to make deductions.</p>
+<p>As well as the usual payroll records, you must also keep the agency contract, employee authorisation forms and details of payments to the agency.</p>
+<h2>Child maintenance</h2>
+<p>You may need to deduct child maintenance directly from a paying parent’s earnings or pension.</p>
+<h1>Payslips</h1>
+<p>You must give your employees and ‘workers’ a payslip on or before their payday.</p>
+<h2>What to include</h2>
+<p>Payslips must show:</p>
+<li>pay before any deductions (‘gross’ wages)</li>
+<li>deductions like tax and National Insurance</li>
+<li>pay after deductions (‘net’ wages)</li>
+<li>the number of hours worked, if the pay varies depending on time worked</li>
+<p>Payslips can also include information like your employee’s National Insurance number and tax code, their rate of pay, and the total amount of pay and deductions so far in the tax year.</p>
+<h2>Producing payslips</h2>
+<p>You may be able to produce payslips using your payroll software, if it has this feature. You can use different software if it does not.</p>
+<p>You can either print payslips to give to your employees, or you can send them electronically.</p>
+<p>Employees have certain rights relating to payslips and what they must include.</p>
+<h1>Reporting to HMRC: FPS</h1>
+<p>Use your payroll software to send a Full Payment Submission (FPS) to tell HM Revenue and Customs (HMRC) about payments to your employees and what deductions you’ve made.</p>
+<p>Include everyone you pay, even if they get less than £120 a week.</p>
+<h2>When to send your FPS</h2>
+<p>Send the FPS on or before your employees’ payday, even if you pay HMRC quarterly instead of monthly.</p>
+<p>You must enter the usual date that you pay your employees, even if you pay them earlier or later. For example, if you pay your employees early because your usual payday falls on a Bank Holiday, you should still enter your regular payday.</p>
+<h3>Early reporting</h3>
+<p>You can send an FPS before your regular payday, for example if your payroll staff are going on holiday.</p>
+<p>Do not report too early - you’ll need to send a corrected FPS to update HMRC if information changes, for example an employee leaves or changes tax code.</p>
+<p>You cannot send reports for the new tax year before March.</p>
+<h3>Late reporting</h3>
+<p>There are some exceptions when you can send a late FPS.</p>
+<h2>Completing and sending an FPS</h2>
+<p>You’ll need to enter your PAYE reference and Accounts Office reference in your software. HMRC will have sent this to you after you registered as an employer.</p>
+<p>To complete and send the FPS, follow your payroll software’s instructions.</p>
+<p>HMRC has guidance on what to put in each field on an FPS, including:</p>
+<li>employer information</li>
+<li>employee information - only include employees you’ve paid</li>
+<li>pay and deductions</li>
+<li>National Insurance information</li>
+<p>You can split your FPS into batches if it’s easier for you, for example one for employees and one for directors.</p>
+<p>There are special rules for calculating deductions if your employee has more than one job with you.</p>
+<h2>After you’ve sent your FPS</h2>
+<p>In the next tax month (which starts on the 6th), you can:</p>
+<li>view your FPS and how much tax and National Insurance you owe in your HMRC online account from the 12th</li>
+<li>claim any reduction on what you’ll owe HMRC (for example statutory pay) by sending an Employer Payment Summary (EPS) by the 19th</li>
+<li>pay HMRC the balance by the 22nd (or the 19th if paying by post)</li>
+<p>If you need to make an extra payment to your employee, send an extra FPS before your next regular report (if your software has this feature).</p>
+<h3>If you made a mistake in your FPS</h3>
+<p>You should correct any errors in your FPS as soon as you find them.</p>
+<h2>Reporting extra information</h2>
+<p>You need to report more information on an FPS if:</p>
+<li>it includes a new employee</li>
+<li>an employee leaves</li>
+<li>you start paying someone a workplace pension</li>
+<li>it’s the last report of tax year</li>
+<p>You may also need to report extra information about certain employee changes, for example they take a leave of absence or become a director.</p>
+<p>There are special rules if you’re only reporting National Insurance, for example you’re an overseas employer that does not need to pay UK tax.</p>
+<h1>Reporting to HMRC: EPS</h1>
+<p>Use your payroll software to send an Employer Payment Summary (EPS) as well as a Full Payment Submission (FPS) if you:</p>
+<li>reclaim statutory maternity, paternity, adoption, parental bereavement or shared parental payments - even if you got an advance payment from HM Revenue and Customs (HMRC) to cover them</li>
+<li>claim the Employment Allowance - do this once each tax year</li>
+<li>can reclaim Construction Industry Scheme (CIS) deductions as a limited company</li>
+<li>claim National Insurance contributions holiday for previous tax years</li>
+<li>pay the Apprenticeship Levy if you, or employers you’re connected to, have an annual pay bill of more than £3 million</li>
+<p>Send an EPS instead of an FPS if you’ve not paid any employees in a tax month.</p>
+<h2>EPS deadlines</h2>
+<p>Send an EPS by the 19th of the following tax month for HMRC to apply any reduction (for example statutory pay) on what you’ll owe from your FPS.</p>
+<p>The tax month starts on the 6th.</p>
+<h2>Sending an EPS</h2>
+<p>To complete and send the EPS, follow your payroll software’s instructions. HMRC has guidance on what to put in each field on an an EPS.</p>
+<p>Use HMRC’s Basic PAYE Tools if your software cannot send EPS reports.</p>
+<h2>After you’ve sent your EPS</h2>
+<p>Once you’ve sent your EPS, you can:</p>
+<li>view what you’ve claimed and the balance of what you owe on your HMRC online account within 2 days (or by the 14th if you sent the EPS before the 11th)</li>
+<li>pay HMRC by the 22nd (or the 19th if paying by post).</li>
+<h3>If you made a mistake in your EPS</h3>
+<p>You should correct any errors in your EPS as soon as you find them.</p>
+<h2>If you do not pay any employees in a tax month</h2>
+<p>Do not send an FPS. Send an EPS by the 19th after the tax month you did not pay any employees. The tax month starts on the 6th.</p>
+<p>HMRC has guidance on what to put in your EPS if you’ve not paid anyone.</p>
+<p>If you do not send an EPS, HMRC may:</p>
+<li>send you a notice through PAYE Online</li>
+<li>estimate how much you should pay</li>
+<li>give you a penalty</li>
+<h3>If you do not pay anyone for a longer period</h3>
+<p>You can tell HMRC up to a year in advance that you’ll not pay any employees. To do this, enter dates in the ‘Period of inactivity’ fields in your EPS.</p>
+<h1>Paying HMRC</h1>
+<p>Every month you have to pay HM Revenue and Customs (HMRC):</p>
+<li>the tax and National Insurance (and any other deductions) you owe as reported on your Full Payment Submission (FPS) in the previous tax month</li>
+<li>minus the reductions on any Employer Payment Summary (EPS) you sent before the 19th in the current tax month</li>
+<p>Pay what you owe by the 22nd of the month (or the 19th if paying by post) - you may have to pay a penalty if you do not.</p>
+<p>If you usually pay less than £1,500 per month, you may be able to pay quarterly instead of monthly. Contact the payment helpline to find out.</p>
+<h2>Viewing what you owe</h2>
+<p>View your HMRC online account to see the reports you’ve sent and to find out what you owe.</p>
+<p>There are things you can check if your PAYE bill is not what you expected.</p>
+<h2>How to pay</h2>
+<p>You can pay your PAYE bill in a number of different ways.</p>
+<h3>Interest and penalties</h3>
+<p>HMRC will usually tell you if they think you’ve paid late - either in a letter or a notice through PAYE Online. You’ll be charged interest daily at the standard rate.</p>
+<p>You may be charged a penalty if you do not pay on time or in full.</p>
+<h1>Sending an FPS after payday</h1>
+<p>If you send a late Full Payment Submission (FPS) without a valid reason, you may get:</p>
+<li>an online penalty warning message for the first late FPS you send each month</li>
+<li>a penalty for reporting late</li>
+<h2>When you can send a late FPS report</h2>
+<p>In certain situations you can send a Full Payment Submission (FPS) after you pay your employee.</p>
+<tr>Situation | When to report</tr>
+<tr>Your employee does not give you a P45 and is either paid less than £120 a week or has worked with you for less than a week | Within 7 days of paying your employee</tr>
+<tr>Your employees’ payday is on a non-banking day, for example weekend or bank holiday | On the next banking day - but enter the regular payment date in the ‘payment date’ field and select ‘Late reporting reason’ code G</tr>
+<tr>You make an ad hoc payment outside of your regular payroll, for example you’re told after you’ve sent your FPS about a new starter or a missed overtime payment. (Payments made regularly outside your normal payroll run are not ad hoc) | In your next regular FPS or an additional FPS</tr>
+<tr>You pay your employee an expense or benefit where you must pay National Insurance, but not Income Tax, through payroll. This depends on the benefit. | Within 14 days of the end of the tax month</tr>
+<tr>You cannot calculate or report your employee’s pay in advance because it’s based on their work on the day, for example harvest workers paid based on how much they pick | Within 7 days of paying your employee</tr>
+<tr>You make certain non-cash payments to your employee | As soon as possible within 14 days of the end of the tax month, or when you deduct tax and National Insurance (if earlier). For complex situations (for example when exercising share options) contact HMRC</tr>
+<tr>You’ve not received your employer PAYE reference yet | As soon as possible after you receive your employer PAYE reference - select ‘Late reporting reason’ code G</tr>
+<p>Put the reason for reporting after payday on your FPS for each late submission. If you do not, or if HMRC disagrees with the reason or you do not send an FPS, they may send you an online penalty warning message and a penalty.</p>
+<h2>Viewing late FPS reports in your HMRC online account</h2>
+<p>If you send an FPS in the same tax month as you paid your employees, you can view the report in your HMRC online account from the 12th of the next tax month.</p>
+<p>This is different if you send an FPS in the tax month after payday.</p>
+<tr>Late FPS sent (in tax month after payday) | HMRC online account updated</tr>
+<tr>Between 6th and 11th | By the 14th</tr>
+<tr>Between 12th and 19th | Within 2 days</tr>
+<tr>On or after the 20th - and you did not send a FPS the previous tax month | Within 2 days</tr>
+<tr>On or after the 20th - and you sent a FPS the previous tax month | By the 12th of the next tax month</tr>
+<h1>Reporting employee changes</h1>
+<p>You need to report more information on a Full Payment Submission (FPS) if:</p>
+<li>it includes a new employee</li>
+<li>an employee leaves</li>
+<li>you start paying someone a workplace pension</li>
+<li>it’s the last report of the tax year</li>
+<li>an employee changes their address</li>
+<p>You may also need to tell HM Revenue and Customs (HMRC) if an employee:</p>
+<li>becomes a director</li>
+<li>reaches State Pension age</li>
+<li>goes to work abroad</li>
+<li>goes on jury service</li>
+<li>dies</li>
+<li>joins or leaves a contracted-out company pension</li>
+<li>turns 16</li>
+<li>is called up as a reservist</li>
+<li>changes gender</li>
+<h2>Employee takes a leave of absence</h2>
+<p>Once your employee has started their leave of absence, put ‘Yes’ in the ‘Irregular payment pattern indicator’ in all FPS reports you send to HMRC until the employee returns.</p>
+<h1>Changing paydays</h1>
+<p>You can move your payday to a different day or change how often you pay your employees.</p>
+<h2>Moving your payday</h2>
+<p>If the new payday is in the same tax month or week, treat the first new payment as an extra payment for that period.</p>
+<p>You do not need to do anything special when recording pay if the new payday is in a different tax month or week.</p>
+<p>HM Revenue and Customs (HMRC) has guidance on how to calculate National Insurance for your employees after changing paydays.</p>
+<h2>Changing how often you pay your employees</h2>
+<p>You must contact the employer helpline if you pay employees less often so HMRC do not send you a non-filing notice through PAYE Online.</p>
+<p>Most payroll software can automatically manage any changes to how often you pay your employees (for example from monthly to weekly) and work out deductions correctly.</p>
+<h3>Using Basic PAYE Tools</h3>
+<p>There are some limitations on when you can make these changes if you use HM Revenue and Customs’ (HMRC) Basic PAYE Tools.</p>
+<h3>Paying your employees more often</h3>
+<p>If you’ve not already paid your employees, use the new earnings period (in the ‘Pay frequency’ field) in your Full Payment Submission (FPS) when you next pay them.</p>
+<p>If you’ve paid your employees, you can use the new earnings period from the next tax month.</p>
+<h3>Paying your employees less often</h3>
+<p>If a payment from your old pay period also takes place in your new pay period, calculate and deduct National Insurance on both. Do not deduct more National Insurance than would’ve been due on the combined total of both payments.</p>
+<p>If an employee also joins your contracted-out pension scheme during this period, deduct National Insurance at the contracted-out rate on the total of both payments.</p>
+<p>Deduct tax based on the new earnings period the next time you pay your employees.</p>
+<h2>Annual payroll scheme for PAYE</h2>
+<p>If you pay your employees only once a year, and all in the same tax month, you can register with HMRC as an ‘annual scheme’.</p>
+<p>This means you send reports and make payments to HMRC annually. If you pay your employees on different days in the same tax month, you need to send an FPS on or before each payday. You do not need to send an Employer Payment Summary (EPS) for the months when you do not pay your employees.</p>
+<p>To register, contact the employer helpline and tell them which month you pay your employees. You’ll need your 13-character Accounts Office reference number - this is on the letter HMRC sent you when you registered as an employer.</p>
+<h3>Changing when you pay your employees</h3>
+<p>If you change the month you pay your employees, send an FPS in the month that you want the new annual payment month to move to. If it’s later than the month you usually pay your employees, you’ll need to send an EPS for that month to tell HMRC you’re not paying anyone.</p>
+<p>If you send more than one FPS in a year, HMRC will assume you no longer wish to operate as an annual scheme and send you a letter to confirm.</p>

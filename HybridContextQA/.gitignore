@@ -1,0 +1,43 @@
+# Ignore all .env files
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore build output directory
+output/
+outputs/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore specific file in a directory
+data/dev_10.json
+data/documents_10.json
+
+# Ignore all files in directory
+storage/
+data_rag_llamaindex/
+data/paul_graham/
+data/docs_10/
+data/docs/
+data/docs1/
+__pycache__
+checkpoints/
+Conditional_QA_classifier_model/
+pack/
+data/dev_qt_pred.json
+data/dev_qt_predictions.json
+dev_qt.json
+dev_span_10.json
+train_qt.json
+
+
+
+#test code
+CQA_Llamaindex.ipynb
+llamaindex_exp.ipynb
+RAG_CQA.ipynb
+RAG_test.ipynb
+ConditionalQA.ipynb

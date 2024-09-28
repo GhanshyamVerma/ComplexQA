@@ -1,0 +1,18 @@
+{
+    "examples": [
+        {
+            "query": "This is some user query.",
+            "query_by": {
+                "model_name": "",
+                "type": "human"
+            },
+            "reference_contexts": [
+                "This is a list",
+                "of contexts used to",
+                "generate the reference_answer"
+            ],
+            "reference_answer": "This is a reference answer. Otherwise known as ground-truth answer.",
+            "reference_answer_by": null
+        }
+    ]
+}

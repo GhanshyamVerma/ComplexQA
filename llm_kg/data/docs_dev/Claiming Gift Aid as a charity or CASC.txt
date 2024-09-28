@@ -1,0 +1,112 @@
+Claiming Gift Aid as a charity or CASC
+<h1>Overview</h1>
+<p>You can claim back 25p every time an individual donates £1 to your charity or community amateur sports club (CASC). This is called Gift Aid.</p>
+<p>You must be recognised as a charity or CASC for tax purposes.</p>
+<p>There are rules on which donations you can claim Gift Aid on.</p>
+<p>You can claim Gift Aid online - you should get your payment within 5 weeks.</p>
+<h2>What the donor needs to do</h2>
+<p>The donor must:</p>
+<li>have paid at least as much in Income Tax or Capital Gains Tax in that tax year as you want to claim in Gift Aid</li>
+<li>make a Gift Aid declaration that gives you permission to claim it</li>
+<p>If the donor has not made a declaration you may still be able to claim on cash donations  of £30 or less, for example from a collection.</p>
+<h1>What you can claim it on</h1>
+<p>You can claim Gift Aid on donations from individuals. The donor must:</p>
+<li>have paid the same amount or more in Income Tax or Capital Gains Tax in that tax year</li>
+<li>make a Gift Aid declaration that gives you permission to claim it</li>
+<p>You must be recognised as a charity or community amateur sports club (CASC) to claim Gift Aid.</p>
+<h2>Special rules for claiming Gift Aid</h2>
+<p>There are special rules for:</p>
+<li>funds from sponsored challenges for example overseas treks or marathons</li>
+<li>charity membership fees</li>
+<li>church collections</li>
+<li>selling goods on behalf of individuals, for example through a charity shop</li>
+<li>charity events or to view charity property</li>
+<li>charity auctions</li>
+<li>volunteer expenses donated back to your charity or CASC</li>
+<li>funds raised through charities involved in running schools</li>
+<h2>What you cannot claim it on</h2>
+<p>You cannot claim on donations:</p>
+<li>from limited companies</li>
+<li>made through Payroll Giving</li>
+<li>that are a payment for goods or services or made because your charity or CASC bought goods and services</li>
+<li>where the donor gets a ‘benefit’ over a certain limit</li>
+<li>of shares</li>
+<li>from charity cards or of vouchers, for example Charities Aid Foundation (CAF) vouchers</li>
+<li>of membership fees to CASCs</li>
+<li>you got before you were a recognised charity or CASC</li>
+<h1>Gift Aid declarations</h1>
+<p>To claim Gift Aid you need to get a Gift Aid declaration from the donor. It should state that the donor:</p>
+<li>has paid the same amount or more in Income Tax or Capital Gains Tax in that tax year</li>
+<li>agrees to Gift Aid being claimed</li>
+<p>You must keep a record of declarations for 6 years after the most recent donation you claimed Gift Aid on.</p>
+<h2>Gift Aid declaration forms</h2>
+<p>The declaration must include a description of the gift and the:</p>
+<li>name of your charity or community amateur sports club (CASC)</li>
+<li>donor’s full name</li>
+<li>donor’s home address (at least their house number or name and postcode)</li>
+<h3>Example declarations</h3>
+<p>Download example Gift Aid declaration forms for:</p>
+<li>one-off donations</li>
+<li>all donations</li>
+<li>sponsored events</li>
+<h2>Cash donations</h2>
+<p>You can put a Gift Aid declaration on your charity’s collection envelopes.</p>
+<p>You may still be able to claim on cash donations of £30 or less if you do not have a declaration.</p>
+<h1>Small donations scheme</h1>
+<p>You may be able to claim 25% on:</p>
+<li>cash donations of £30 or less</li>
+<li>contactless card donations of £30 or less collected on or after 6 April 2019</li>
+<p>This is called the Gift Aid small donations scheme (GASDS). You do not need a Gift Aid declaration to claim.</p>
+<p>From 6 April 2016, you can claim up to £2,000 in a tax year or £1,250 for earlier years.</p>
+<h2>Who can claim</h2>
+<p>Your charity or CASC must have claimed Gift Aid:</p>
+<li>in the same tax year as you want to claim GASDS</li>
+<li>without getting a penalty in the last 2 tax years</li>
+<li>in at least 2 of the last 4 tax years (without a 2-year gap between claims) if you’re claiming on donations made before 6 April 2017</li>
+<h2>What you can claim</h2>
+<p>Your GASDS claim cannot be more than 10 times your Gift Aid claim. For example, you can claim on £1,000 worth of donations through GASDS if you’ve received £100 of Gift Aid donations in the same tax year.</p>
+<p>You can claim on donations that are eligible for Gift Aid, but not membership fees.</p>
+<h3>Collections in community buildings</h3>
+<p>If your charity has a community building (for example a village hall or religious building) you might be able to claim more on donations collected either:</p>
+<li>in your community building</li>
+<li>in the same council area as your community building, if you collected the donations on or after 6 April 2017</li>
+<p>For somewhere to count as your community building, you need to have hosted at least 6 charity events there. The events must have all been attended by at least 10 people.</p>
+<h3>If your organisation is connected to another charity or CASC</h3>
+<p>If one of the charities has a community building, all of the connected charities can either:</p>
+<li>claim as if they had a community building</li>
+<li>share a single £8,000 limit - all the charities will need to write to HMRC to do this</li>
+<p>If none of the charities have a community building, or you’re claiming for donations made before 6 April 2017, the connected charities must share a single £8,000 limit.</p>
+<p>If your charity has merged with another charity or CASC you may be able to take on the other charity’s record of good claims.</p>
+<h2>Keeping records</h2>
+<p>You need to record the:</p>
+<li>total cash donations collected</li>
+<li>date of the collection</li>
+<li>date it was paid into a bank account</li>
+<p>You’ll need to keep records of any contactless card donations that you’ve taken, for example receipts from your card machine.</p>
+<p>For collections in community buildings you’ll also need to record:</p>
+<li>the address of the place you collected the donations (including postcode)</li>
+<li>the type of event</li>
+<li>the number of events you held</li>
+<li>an estimate of how many people were at the event</li>
+<li>when you collected the donations</li>
+<h2>How to claim</h2>
+<p>Claim under GASDS in the same way as Gift Aid.</p>
+<h1>How to claim</h1>
+<p>You can claim Gift Aid using Charities Online with:</p>
+<li>eligible software, like a database</li>
+<li>a spreadsheet of your donations</li>
+<p>For claims of over 1,000 donations you must use software.</p>
+<p>To apply by post use form ChR1, which you can get from the charities helpline.</p>
+<h2>When you must claim</h2>
+<p>Your deadline to claim Gift Aid depends on how your charity is set up.</p>
+<p>You need to claim for a donation within 4 years of the end of the financial period you received it in. This is:</p>
+<li>the tax year (6 April to 5 April) if you’re a trust</li>
+<li>your accounting period if your charity is a community amateur sports club (CASC), a Charity Incorporated Organisation (CIO) or a limited company</li>
+<p>You must claim on cash donations under the Gift Aid Small Donations Scheme within 2 years of the end of the tax year that the donations were collected in.</p>
+<h2>Keeping records</h2>
+<p>You need to keep records of these donations for a further two years.</p>
+<h2>When you’ll get paid</h2>
+<p>You’ll get a Gift Aid payment by BACS within:</p>
+<li>4 weeks if you claimed online</li>
+<li>5 weeks if you claimed by post using form ChR1</li>
+<p>Contact the charities helpline if your repayment is wrong or if you submitted an incorrect claim.</p>

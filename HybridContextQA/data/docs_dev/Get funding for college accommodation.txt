@@ -1,0 +1,55 @@
+Get funding for college accommodation
+<h1>Overview</h1>
+<p>You may be able to get help with the cost of term-time accommodation if you’re studying a further education course that’s far from your home.</p>
+<p>How much you get depends on your household income.</p>
+<p>You will not be able to get help with boarding school fees.</p>
+<h2>What you can apply for</h2>
+<p>You may be able to apply to get money from the following:</p>
+<li>Residential Bursary Fund (RBF), if you study at a specialist residential centre</li>
+<li>Residential Support Scheme (RSS), if you do not study at a specialist residential centre</li>
+<h1>Residential Bursary Fund</h1>
+<p>You may be able to get help with the cost of accommodation from the Residential Bursary Fund (RBF).</p>
+<h2>Eligibility</h2>
+<p>You must:</p>
+<li>meet the residency requirements (your college will check this)</li>
+<li>be at least 16 and under 19 on 31 August 2021</li>
+<p>You may be eligible if you’re 19 and either:</p>
+<li>continuing on a course you started aged 16 to 18</li>
+<li>have an education, health and care plan (EHCP)</li>
+<p>Your course must:</p>
+<li>be at a specialist residential centre (your college can confirm this)</li>
+<li>be too far to travel to each day (your college must agree with this)</li>
+<li>be full-time</li>
+<li>be ‘16 to 19 funded’ (your college can confirm this)</li>
+<h2>What you’ll get</h2>
+<p>Your college will decide how much you get. It depends on your household income.</p>
+<p>You can get payments for a maximum of 3 years.</p>
+<h2>How to claim</h2>
+<p>Contact the student support officer at your college for an application form and help with applying.</p>
+<h1>Residential Support Scheme</h1>
+<p>You may be able to get help with the cost of accommodation from the Residential Support Scheme (RSS).</p>
+<h2>Eligibility</h2>
+<p>You must:</p>
+<li>be at least 16 and under 19 on 31 August 2021</li>
+<li>meet the residency requirements (your college will check this)</li>
+<li>not be on housing benefit</li>
+<li>have a household income of less than £30,993</li>
+<li>be studying your first level 2 or level 3 qualification (for example 2 or more A levels, a diploma or a national vocational qualification)</li>
+<p>You may be eligible if you’re 19 and either:</p>
+<li>continuing on a course you started aged 16 to 18</li>
+<li>have an education, health and care plan (EHCP)</li>
+<p>Your course must:</p>
+<li>not be at a specialist residential centre (your college can confirm this)</li>
+<li>be full-time at a college in England</li>
+<li>be ‘16 to 19 funded’ (your college can confirm this)</li>
+<p>Your course must also be more than either 15 miles or a 2 hour round trip from your home, and not available any closer than that.</p>
+<h2>What you’ll get</h2>
+<p>The table shows the maximum you can get each year. The actual amount you can get depends on your accommodation costs.</p>
+<tr>Gross household income | Studying outside London | Studying in London</tr>
+<tr>Up to £21,000 | Up to £3,458 | Up to £4,079</tr>
+<tr>£21,001 to £25,704 | Up to £2,305 | Up to £2,685</tr>
+<tr>£25,705 to £30,993 | Up to £1,152 | Up to £1,355</tr>
+<tr>£30,994 or more | No award | No award</tr>
+<p>You can get payments for a maximum of 3 years.</p>
+<h2>How to claim</h2>
+<p>Contact the student support officer at your college for an application form and help with applying.</p>

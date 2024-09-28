@@ -1,0 +1,86 @@
+Tax and customs for goods sent from abroad
+<h1>Overview</h1>
+<p>Anything posted or couriered to you from another country goes through customs to check it is not banned or restricted and you pay the right tax and ‘duty’ on it.</p>
+<p>This includes anything new or used that you:</p>
+<li>buy online</li>
+<li>buy abroad and send back to the UK</li>
+<li>receive as a gift</li>
+<h2>Your responsibilities</h2>
+<p>Before receiving your goods, you may have to pay VAT, Customs Duty or Excise Duty if they were sent to:</p>
+<li>Great Britain (England, Wales and Scotland) from outside the UK</li>
+<li>Northern Ireland from countries outside the UK and the European Union (EU)</li>
+<p>You must also check that the sender:</p>
+<li>pays Excise Duty on any alcohol or tobacco sent from the EU to Northern Ireland</li>
+<li>declares goods correctly if they’re sent from outside the UK (or from outside the EU for Northern Ireland)</li>
+<p>Your goods may be seized if you do not follow the rules. You may also be fined or prosecuted.</p>
+<h1>Tax and duty</h1>
+<p>You’ll be contacted by Royal Mail, Parcelforce or the courier company if you need to pay any VAT, duty or delivery charges (‘handling fees’) to receive your goods.</p>
+<p>They’ll send you a bill stating exactly which fees you need to pay.</p>
+<p>They’ll normally hold your parcel for about 3 weeks. If you have not paid the bill by then, your parcel will be returned to the sender.</p>
+<p>You will not have to pay anything to the delivery company to receive goods worth less than £135 unless they’re gifts over £39 or excise goods (for example, alcohol and tobacco).</p>
+<h2>VAT</h2>
+<p>VAT is charged on all goods (except for gifts worth £39 or less) sent from:</p>
+<li>outside the UK to Great Britain</li>
+<li>outside the UK and the EU to Northern Ireland</li>
+<p>VAT is not charged on goods that are gifts worth £39 or less.</p>
+<p>You pay VAT when you buy the goods or to the delivery company before you receive them. If you have to pay VAT to the delivery company, it’s charged on the total package value, including:</p>
+<li>the value of the goods</li>
+<li>postage, packaging and insurance</li>
+<li>any duty you owe</li>
+<p>VAT is charged at the VAT rate that applies to your goods.</p>
+<h3>Goods worth £135 or less in total</h3>
+<p>If you bought the goods yourself and they are not excise goods, the seller will have included VAT in the total you paid.</p>
+<p>You will need to pay VAT to the delivery company if the goods are:</p>
+<li>gifts sent to you by someone else and worth more than £39</li>
+<li>excise goods</li>
+<h3>Goods worth more than £135 in total</h3>
+<p>You will have to pay VAT to the delivery company either before the goods are delivered or when you collect them.</p>
+<h2>Customs Duty</h2>
+<p>You’ll be charged Customs Duty on all goods sent from outside the UK (or the UK and the EU if you’re in Northern Ireland) if they’re either:</p>
+<li>excise goods</li>
+<li>worth more than £135</li>
+<p>If you’re charged Customs Duty, you’ll need to pay it on both:</p>
+<li>the price paid for the goods</li>
+<li>postage, packaging and insurance</li>
+<tr>Type and value of goods | Customs Duty</tr>
+<tr>Non-excise goods worth £135 or less | No charge</tr>
+<tr>Gifts above £135 and up to £630 | 2.5%, but rates are lower for some goods - call the helpline</tr>
+<tr>Gifts above £630 and other goods above £135 | The rate depends on the type of goods and where they came from - call the helpline</tr>
+<p>You pay Customs Duty on excise goods of any value.</p>
+<h2>Excise Duty</h2>
+<p>If you’re sent alcohol or tobacco from outside the UK, you’ll be charged Excise Duty at current rates.</p>
+<p>If the goods are sent from the EU to Northern Ireland, check that the Excise Duty was included in the price. If it’s not, your goods may be seized.</p>
+<p>It does not matter whether you buy the goods or they’re sent as a gift.</p>
+<p>If you receive large amounts of alcohol or tobacco for your business, use the Trade Tariff to check duty rates.</p>
+<p>Your goods can also be seized if they’re:</p>
+<li>spirits over 35 centilitres without a UK duty stamp</li>
+<li>cigarettes or hand-rolling tobacco without UK health warnings or fiscal marks</li>
+<h2>If you’re charged too much or return your goods</h2>
+<p>Ask for a refund of VAT or Customs Duty if you:</p>
+<li>return your goods</li>
+<li>think you’ve been charged too much</li>
+<p>Download and fill in:</p>
+<li>form BOR 286 if Royal Mail or Parcelforce delivered the goods</li>
+<li>form C285 if a courier or freight company delivered the goods</li>
+<h1>Documents</h1>
+<p>Check that goods sent to you from outside the UK (or outside the UK and the EU for goods in Northern Ireland) are declared to customs correctly.</p>
+<p>If they’re not declared correctly, your goods may be seized.</p>
+<p>You must either:</p>
+<li>check that the sender fills in the customs declaration form correctly</li>
+<li>fill in the customs declaration yourself - this can delay getting your goods by at least 4 weeks</li>
+<h2>Filling in the customs declaration yourself</h2>
+<p>The sender must write ‘goods to be declared by importer’ on the customs declaration form.</p>
+<p>Before you can collect your goods, you’ll be sent:</p>
+<li>a full customs declaration form to fill in</li>
+<li>a letter explaining how to pay any tax or duty you owe</li>
+<h1>Gifts</h1>
+<p>To qualify as gifts, goods must be:</p>
+<li>described as gifts on the customs declaration</li>
+<li>for a birthday, anniversary or other occasion</li>
+<li>bought and sent between individuals (not companies)</li>
+<li>intended for personal use</li>
+<h2>Sending more than one gift</h2>
+<p>If you’re sending more than one gift in the same parcel, you get the Customs Duty and VAT-free allowance for each gift if they’re:</p>
+<li>for different people</li>
+<li>listed on the customs declaration with their individual values</li>
+<li>wrapped individually</li>

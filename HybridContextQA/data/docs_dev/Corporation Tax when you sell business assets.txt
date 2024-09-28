@@ -1,0 +1,44 @@
+Corporation Tax when you sell business assets
+<h1>Overview</h1>
+<p>Your limited company usually pays Corporation Tax on the profit (‘chargeable gain’) from selling or disposing of an asset.</p>
+<h2>Company assets</h2>
+<p>Assets are things your company owns, such as:</p>
+<li>land and property</li>
+<li>equipment and machinery</li>
+<li>shares</li>
+<h2>Who pays Corporation Tax</h2>
+<p>Corporation Tax on chargeable gains is paid by:</p>
+<li>limited companies</li>
+<li>most unincorporated associations, for example clubs and co-operatives</li>
+<li>foreign companies with a UK branch or office</li>
+<p>You pay Capital Gains Tax instead if you’re a self-employed sole trader or business partner.</p>
+<h2>Work out and report your gain</h2>
+<p>You’ll need to work out your gain to find out whether you need to pay tax.</p>
+<p>Report your gains to HM Revenue and Customs (HMRC) when you file your Company Tax Return. How much tax you pay depends on any allowances and reliefs you claim.</p>
+<p>There are different rules for intangible assets, for example intellectual property and business reputation (‘goodwill’).</p>
+<h1>Work out a chargeable gain</h1>
+<p>The gain is usually the difference between what you paid for the asset and what you sold it for.</p>
+<p>You’ll need to use the asset’s market value if your business gave it away, or sold it for less than it was worth to help the buyer.</p>
+<p>You can deduct any costs, for example solicitors’ fees or Stamp Duty.</p>
+<h2>If you had the asset before December 2017</h2>
+<p>Before you work out your gain you need to work out how much you would have paid for the asset in today’s money using the HM Revenue and Customs (HMRC) Indexation Allowance.</p>
+<p>This will make your gain smaller and mean you pay less tax.</p>
+<h2>How to work out the gain</h2>
+<li>Work out the asset’s value when it was sold - this is usually the amount your company received.</li>
+<li>Deduct the amount your company paid for the asset. If it was not acquired in a normal commercial transaction you need to use the market value at the time.</li>
+<li>Deduct any money your company spent buying, selling or improving the asset, for example solicitors’ fees and Stamp Duty. (You cannot deduct maintenance costs.)</li>
+<li>If you had the asset before December 2017, use HMRC’s Indexation Allowance December 2017 guide for the month when your company sold the asset. Then find the figure (‘inflation factor’) for the year and month when your company bought the asset. Multiply this by the amount you paid for the asset. Deduct the total from your profit.</li>
+<li>If you made improvements to the asset, work out the effects of inflation in the same way. Deduct the total from your profit.</li>
+<p>You now have your chargeable gain. You can ask HMRC to check your valuation by filling in a post-transaction valuation check form. Return it to the address on the form and allow at least 3 months for HMRC’s response.</p>
+<h2>If you make a loss when you sell an asset</h2>
+<p>You can reduce your total chargeable gains by deducting any capital losses.</p>
+<p>You can only deduct capital losses from your chargeable gains - not from trading income or other profits.</p>
+<p>The loss you can claim is reduced by any amount you’ve claimed as capital allowances.</p>
+<h1>Intangible assets</h1>
+<p>‘Intangible assets’ include intellectual property and business reputation (‘goodwill’).</p>
+<p>How you’re taxed on gains from intangible assets depends on when your limited company first owned them.</p>
+<h2>After 31 March 2002</h2>
+<p>Include gains on intangible assets in your company’s business income (‘trading profits’) if your company acquired or created them after 31 March 2002. You pay Corporation Tax on trading profits.</p>
+<h2>Before 1 April 2002</h2>
+<p>Use the detailed guidance to work out gains on intangible assets or get help from a professional, like an accountant.</p>
+<p>If your company’s intangible assets came from a change in business structure (for example from a business partnership or self-employed sole trader), use the date the assets were acquired or created before the structure change.</p>
